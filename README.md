@@ -22,3 +22,9 @@
     }
 ]
 ```
+说明：
+ - word 成语本身
+ - pronunciation 音标
+ - source 来源
+ - example 例子
+ - start_letter 首字母
