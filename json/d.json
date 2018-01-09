@@ -1,0 +1,4274 @@
+[
+	{
+		"word" : "东兔西乌",
+		"pronunciation" : "dōng tù xī wū",
+		"interpretation" : "兔、乌：古代神话传说中说，月亮里有玉兔，太阳里有三足金乌，所以用乌、兔代表日月。月亮东升，太阳西落。表示时光不断流逝。",
+		"source" : "宋·吴潜《瑞鹤仙》：“愁高怅远。身世事，但难准。况禁他，东兔西乌相逐，古古今今不问。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东奔西向",
+		"pronunciation" : "dōng bēn xī xiàng",
+		"interpretation" : "指各奔东西，互不相关。",
+		"source" : "明·无名氏《苏九淫奔》第二折：“你也光，我也光，东奔西向，我就养遍濮州城，你也难来拦当。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东山再起",
+		"pronunciation" : "dōng shān zài qǐ",
+		"interpretation" : "指再度出任要职。也比喻失势之后又重新得势。",
+		"source" : "《晋书·谢安传》 东山再起的故事",
+		"example" : "要警惕军国主义死灰复燃，东山再起。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东市朝衣",
+		"pronunciation" : "dōng shì cháo yī",
+		"interpretation" : "为朝臣被杀之典。",
+		"source" : "《史记·吴王濞列传》、《汉书·晁错传》载：汉景帝时，御史大夫晁错被谗，“衣朝衣斩东市。”",
+		"example" : "曲江羽扇何须叹，东市朝衣更不堪。★清·钱谦益《春夜读<汉书>寄南海陈侍郎》诗",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东床坦腹",
+		"pronunciation" : "dōng chuáng tǎn fù",
+		"interpretation" : "指女婿。",
+		"source" : "南朝·宋·刘义庆《世说新语·雅量》：“郗太傅在京品，遣门生与王丞相书，求女婿。……门生归白郗曰：‘王家诸郎，亦皆可嘉，闻来觅婿，咸自矜持，唯有一郎在床上坦腹卧，如不闻。’” 东床坦腹的故事",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东床娇客",
+		"pronunciation" : "dōng chuáng jiāo kè",
+		"interpretation" : "对女婿的美称。同“东床娇婿”。",
+		"source" : "元·李好古《张生煮海》第三折：“东海龙神差老僧来做媒，招你为东床娇客。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东征西怨",
+		"pronunciation" : "dōng zhēng xī yuàn",
+		"interpretation" : "本指商汤向一方征伐，则另一方人民埋怨他不先来解救自己。后指帝王兴仁义之师为民除害，深受百姓拥戴。",
+		"source" : "语出《书·仲虺之诰》：“惟王不迩声色，不殖货利，德懋懋官，功懋懋赏……东征西夷怨，南征北狄怨。”",
+		"example" : "古先哲王，东征西怨。顾予不德，重以劳人。★唐·陆贽《重优复兴元府及洋凤州百姓等诏》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东搜西罗",
+		"pronunciation" : "dōng sōu xī luó",
+		"interpretation" : "指到处寻找与搜集。",
+		"source" : "许地山《空山灵雨·补破衣的老妇人》：“我们所为，原就和你一样，东搜西罗，无非是些绸头布尾，只配用来补补破衲袄罢了。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东方千骑",
+		"pronunciation" : "dōng fāng qiān jì",
+		"interpretation" : "旧指女子的如意郎君。",
+		"source" : "汉·乐府《陌上桑》诗：“东方千余骑，夫婿居上头。”",
+		"example" : "东方千骑从骊驹，岂不下山逢故夫。（梁·简文帝《采菊篇》诗）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东海捞针",
+		"pronunciation" : "dōng hǎi lāo zhēn",
+		"interpretation" : "从大海底下捞取一根针，形容非常难达到目的。",
+		"source" : "元·柯丹丘《荆钗记·误讣》：“儿，此生休想同衾枕，要相逢除非东海捞针。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东海鲸波",
+		"pronunciation" : "dōng hǎi jīng bō",
+		"interpretation" : "东海上的汹涌波涛。比喻来自东方的侵略。",
+		"source" : "高珪《岳坟感赋》诗：“东海鲸波谁可靖，只今惜少岳家军。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东窗事发",
+		"pronunciation" : "dōng chuāng shì fā",
+		"interpretation" : "比喻阴谋已败露。",
+		"source" : "明·田汝成《西湖游览志馀·佞倖盘荒》：“可烦传语夫人，东窗事发矣。”",
+		"example" : "我早间见那做娘的打庆奴，晚间押番归却，打发我出门，莫是“东窗事发”？（明·冯梦龙《警世通言》卷二十）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东窗计",
+		"pronunciation" : "dōng chuāng jì",
+		"interpretation" : "指谋害忠良的阴谋诡计。",
+		"source" : "《剪灯新话·天台访隐录》：“建炎南渡多翻覆，泥马逃来御黄屋……东窗计就通和好，鄂王赐死蕲王老。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东箭南金",
+		"pronunciation" : "dōng jiàn nán jīn",
+		"interpretation" : "东方的竹箭，南方的铜，古时都认为是上品。比喻可宝贵的人才。",
+		"source" : "《晋书·虞潭顾众传·赞》：“顾实南金，虞惟东箭。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东西南北",
+		"pronunciation" : "dōng xī nán běi",
+		"interpretation" : "指四方、到处、各地、普天下或方向；亦指到处飘泊，行踪不定。",
+		"source" : "《左传·襄公二十九年》：“东西南北，谁敢安处。” 《礼记·檀弓上》：“今丘（孔子）也，东西南北之人也。”",
+		"example" : "后以奔走四方，东西南北，驰驱少暇。（清·黄遵宪《人境庐诗草自序》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东道主",
+		"pronunciation" : "dōng　dào　zhǔ",
+		"interpretation" : "泛指接待或宴客的主人。",
+		"source" : "《左传·僖公三十年》：“若舍郑以为东道主，行李之往来，共其乏困，君亦无所害。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东风化雨",
+		"pronunciation" : "dōng fēng huà yǔ",
+		"interpretation" : "指适宜于草木生长的风雨。比喻良好的薰陶和教育。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东风射马耳",
+		"pronunciation" : "dōng fēng shè mǎ ěr",
+		"interpretation" : "射：射出。比喻把别人的话当作耳边风，充耳不闻，无动于衷。",
+		"source" : "唐·李白《答王十二寒夜独酌有怀》诗：“世人闻此皆掉头，有如东风射马耳。”",
+		"example" : "我的话对你来说还不是东风射马耳了。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "东食西宿",
+		"pronunciation" : "dōng shí xī sù",
+		"interpretation" : "比喻贪婪的人各方面的好处都要。",
+		"source" : "《艺文类聚》卷四十引《风俗通》：“俗说齐人有女，二人求之。东家子丑而富，西家子好而贫。父母疑不能决，问其女，定所欲适。……女便两袒，怪问其故。云：‘欲东家食，西家宿。’” 东食西宿的故事",
+		"example" : "“东食西宿”，廉者当不如是，马亦自笑无以对。（清·蒲松龄《聊斋志异·黄英》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "丢三落四",
+		"pronunciation" : "diū sān là sì",
+		"interpretation" : "形容做事马虎粗心，不是丢了这个，就是忘了那个。",
+		"source" : "清·曹雪芹《红楼梦》第六十七回：“咱们家没人，俗语说的‘夯雀儿先飞’，省的临时丢三落四的不齐全，令人笑话。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "丢卒保车",
+		"pronunciation" : "diū zú bǎo jū",
+		"interpretation" : "本是象棋术语。后比喻丢掉次要的，保住主要的。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "丹凤朝阳",
+		"pronunciation" : "dān fèng cháo yáng",
+		"interpretation" : "比喻贤才逢明时。",
+		"source" : "《诗经·大雅·卷阿》：“凤凰鸣矣，于彼高冈。梧桐生矣，于彼朝阳。”",
+		"example" : "前后同心八谏臣，朝阳丹凤一齐鸣。除奸反正扶明主，留得功勋耀古今。（明·王世贞《鸣凤记》第一出）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "丹心碧血",
+		"pronunciation" : "dān xīn bì xuè",
+		"interpretation" : "丹心：红心、忠心。碧血：血化为碧玉。碧：青绿色的宝石，表示血的珍贵。赤诚的忠心，宝贵的鲜血。用以赞扬为国捐躯的重大牺牲。",
+		"source" : "《庄子·外物》：“苌弘死于蜀，藏其血，三年而化为碧。”元·郑元祐《张御史死节歌》：“孤忠既足明丹心，三年犹须化碧血。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "代人受过",
+		"pronunciation" : "dài rén shòu guò",
+		"interpretation" : "受：承受，担待；过：过失，过错。替别人承担过错的责任。",
+		"source" : "",
+		"example" : "各省系军阀慑于人民的巨大力量，都不肯代人受过，曹辊也就不敢一意孤行。（陶菊隐《北洋军阀统治时期史话》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "代人捉刀",
+		"pronunciation" : "dài rén zhuō dāo",
+		"interpretation" : "捉刀：代别人写文章。指代别人做事，多指写文章。",
+		"source" : "南朝·宋·刘义庆《世说新语·容止》：“既毕，令间谍问曰：‘魏王如何？’匈奴使答曰：‘魏王雅望非常，然床头捉刀人，此乃英雄也。’魏王闻之，追杀此使。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "代代相传",
+		"pronunciation" : "dài dài xiāng chuán",
+		"interpretation" : "一代接一代地相继传下去。",
+		"source" : "",
+		"example" : "我们一定要将林州人民战天斗地、艰苦创业的“红旗渠精神”代代相传。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "代拆代行",
+		"pronunciation" : "dài chāi dài xíng",
+		"interpretation" : "拆：拆开，指拆阅来电来文；行：发出。一般指首长不在时由专人负责代理拆阅和审批、处理公文。形容权力极大。",
+		"source" : "",
+		"example" : "其时抚台请病假，各事都由藩司代拆代行。（清·李宝嘉《官场现形记》第九回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "低三下四",
+		"pronunciation" : "dī sān xià sì",
+		"interpretation" : "形容态度卑贱低下也指工作性质卑贱低下。",
+		"source" : "",
+		"example" : "我常州姓沈的，不是甚么低三下四的人家。（清·吴敬梓《儒林外史》第四十回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "低唱浅斟",
+		"pronunciation" : "dì chàng qiǎn zhēn",
+		"interpretation" : "低唱：轻柔地歌唱；斟：喝酒。听人轻柔地歌唱,并自在地慢慢饮酒。形容一种安乐自在的神态。",
+		"source" : "宋·无名氏《湘湖近事》：“陶谷学士，尝买得党太尉家故妓……，妓曰：‘彼粗人也，安有此景，但能销金暖帐下，浅斟低唱，饮羊羔美酒耳。’谷愧其言。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "低唱浅酌",
+		"pronunciation" : "dì chàng qiǎn zhuó",
+		"interpretation" : "低唱：轻柔地歌唱；酌：饮酒。听人轻柔地歌唱，并自在地慢慢饮酒。形容一种安乐自在的神态。",
+		"source" : "元·关汉卿《望江亭》第三折：“则这今晚开筵，正是中秋令节。只合低唱浅酌，莫待他花残月缺。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "低头搭脑",
+		"pronunciation" : "dī tóu dā nǎo",
+		"interpretation" : "形容惶恐或无精打采的样子。同“低头耷脑”。",
+		"source" : "梁斌《红旗谱》一：“老祥子大娘正点着灯做晚饭，看见朱老巩走进来，低头搭脑坐在台阶上。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "低眉顺眼",
+		"pronunciation" : "dī méi shùn yǎn",
+		"interpretation" : "低着眉头，两眼流露出顺从的神情。形容驯良、顺从。",
+		"source" : "",
+		"example" : "就是钩头耸背，低眉顺眼，一副死板板的脸相的所谓“好孩子”。（鲁迅《南腔北调集·上海的儿童》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒凤颠鸾",
+		"pronunciation" : "dǎo fèng diān luán",
+		"interpretation" : "比喻顺序失常。旧小说用来形容男女交欢。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒屣相迎",
+		"pronunciation" : "dào xǐ xiāng yíng",
+		"interpretation" : "屣：鞋。古人家居脱鞋席地而坐，争于迎客，将鞋穿倒。形容热情欢迎宾客。",
+		"source" : "《三国志·魏书·王粲传》：“闻粲在门，倒屣迎之，”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒悬之急",
+		"pronunciation" : "dào xuán zhī jí",
+		"interpretation" : "倒悬：象人被倒挂着一样。比喻处境极端困难。",
+		"source" : "《孟子·公孙丑上》：“当今之时，万乘之国，行仁政，民之悦之，如解倒悬也。”《后汉书·臧洪传》：“北鄙将若倒悬之急。”",
+		"example" : "盗贼蜂起，奸雄鹰扬，社稷有累卵之危，生灵有倒悬之急。（明·罗贯中《三国演义》第九十三回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒戈卸甲",
+		"pronunciation" : "dǎo gē xiè jiǎ",
+		"interpretation" : "比喻放下武器认输。",
+		"source" : "《续传灯录》：“雪峰三上投子，九到洞山，为什么倒戈卸甲？”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒戢干戈",
+		"pronunciation" : "dǎo jí gān gē",
+		"interpretation" : "把武器倒着放起来，比喻没有战争，天下太平。同“倒载干戈”。",
+		"source" : "汉·荀悦《汉纪·高祖纪二》：“偃革为轩，倒戢干戈，示不复用兵。”",
+		"example" : "倒戢干戈，苞以兽皮。★《晋书·华谭传》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒打一耙",
+		"pronunciation" : "dào dǎ yī pá",
+		"interpretation" : "《西游记》故事：猪八戒以钉耙为武器，常用回身倒打一耙的绝技战胜对手。自己做错了，不仅拒绝别人的指摘，反而指摘对方。",
+		"source" : "",
+		"example" : "看来，他们上上下下都串通好了，而且要倒打一耙。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒持太阿",
+		"pronunciation" : "dǎo chí tài ā",
+		"interpretation" : "太阿：宝剑名。倒拿着剑，把剑柄给别人。比喻把大权交给别人，自己反受其害。",
+		"source" : "《旧唐书·陈夷行传》：“自三数年来，奸臣窃权，陛下不可倒持太阿，授人鳟柄。”",
+		"example" : "况今驻华各使，惟利是视，以值修约之际，蹈瑕伺间，诡谋百出，不豫为之防，是倒持太阿以授之也。★清·薛福成《筹洋刍议》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒持干戈",
+		"pronunciation" : "dǎo chí gān gē",
+		"interpretation" : "犹言倒持泰阿。干、戈，皆兵器。",
+		"source" : "《后汉书·何进传》：“大兵聚会，强者为雄，所谓倒持干戈，授人以柄，功必不成，只为乱阶。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒持戈矛",
+		"pronunciation" : "dǎo chí gē máo",
+		"interpretation" : "犹言倒持泰阿。戈、矛，皆兵器。",
+		"source" : "《新唐书·陆贽传》：“舍此不务而反为所乘，斯谓倒持戈矛，以鳟授寇者也。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒持泰阿",
+		"pronunciation" : "dào chí tài ē",
+		"interpretation" : "泰阿：宝剑名。倒拿着剑，把剑柄给别人。比喻把大权交给别人，自己反受其害。",
+		"source" : "《汉书·梅福传》：“倒持泰阿，授楚其柄。”",
+		"example" : "二子以爱姬示人，掇丧身之祸。所谓倒持泰阿，授人以柄。（宋·乐史《绿珠传》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒海翻江",
+		"pronunciation" : "dǎo hǎi fān jiāng",
+		"interpretation" : "形容力量或声势非常浩大。",
+		"source" : "宋·陆游《夜宿阳山矶》诗：“五更颠风吹急雨，倒海翻江洗残暑。”",
+		"example" : "风仗雨势，雨借风威，那雨像倒海翻江似地下了起来。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒置干戈",
+		"pronunciation" : "dào zhì gān gē",
+		"interpretation" : "把武器收藏起来，不再打仗。",
+		"source" : "《史记·留侯世家》：“倒置干戈，覆以虎皮，以示天下不复用兵。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒裳索领",
+		"pronunciation" : "dào cháng suǒ lǐng",
+		"interpretation" : "索：搜寻、寻求。把衣裳倒过来寻找领口。比喻办事抓不到要点。",
+		"source" : "《邓析子·无厚篇》：“驱逸足于庭，求猿捷于槛，斯逆理而求之，犹倒裳而索领。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "倒载干戈",
+		"pronunciation" : "dào zài gān gē",
+		"interpretation" : "倒：把锋刃向里倒插着；载：陈设，放置；干戈：古代的两种兵器，泛指武器。把武器倒着放起来，比喻没有战争，天下太平。",
+		"source" : "《礼记·乐记》：“倒载干戈，包之以虎皮……然后天下知武王之不得用兵也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "党同伐异",
+		"pronunciation" : "dǎng tóng fá yì",
+		"interpretation" : "伐：讨伐，攻击。指结帮分派，偏向同伙，打击不同意见的人。",
+		"source" : "《后汉书·党锢传序》：“自武帝以后，崇尚儒学，怀经协术，所在雾会。至有石渠分争之论，党同伐异之说。”",
+		"example" : "读者幸勿比例惴测，谓此事为某人写照，此名为某人化身，致生种种党同伐异意见。（清·梁启超《新中国未来记·绪言》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "党坚势盛",
+		"pronunciation" : "dǎng jiān shì shèng",
+		"interpretation" : "指团结紧、势力盛大。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "党豺为虐",
+		"pronunciation" : "dǎng chái wéi nüè",
+		"interpretation" : "党：结成团伙；豺：一种凶恶的野兽，常比喻凶残的人。虐：残暴。与凶残的人结成团伙做残害人的勾当。",
+		"source" : "明·马中锡《中山狼传》：“且鄙人虽愚，独不知夫狼乎？性贪而狠，党豺为虐，君能除之，固当窥左足以效微劳，又肯讳之而不言哉？”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "冬寒抱冰，夏热握火",
+		"pronunciation" : "dōng hán bào bīng，xià rè wò huǒ",
+		"interpretation" : "形容刻苦自勉。",
+		"source" : "《吴越春秋·勾践归国外传》：“越王念复吴，仇非上旦也。苦身劳心，夜以继日。……冬常抱冰，夏还握火。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "冬日夏云",
+		"pronunciation" : "dōng rì xià yún",
+		"interpretation" : "冬天的太阳，夏天的云层。比喻人态度温和可亲，使人愿意接近。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "冬温夏清",
+		"pronunciation" : "dōng wēn xià qīng",
+		"interpretation" : "冬天使父母温暖，夏天使父母凉爽。指人子孝道。亦泛称冬暖夏凉。",
+		"source" : "北魏《张猛龙碑》：“冬温夏清，晓夕承奉。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "冬烘先生",
+		"pronunciation" : "dōng hōng xiān shēng",
+		"interpretation" : "指昏庸浅陋的知识分子。",
+		"source" : "五代·王定宝《唐摭言》卷八：“主司头脑太冬烘，错认颜标作鲁公。”",
+		"example" : "三家村的冬烘先生，一年到头，一早到夜教村童。（鲁迅《华盖集·并非闲话（三）》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "冬裘夏葛",
+		"pronunciation" : "dōng qiú xià gě",
+		"interpretation" : "裘：皮衣；葛：葛麻衣。泛指美服。",
+		"source" : "《公羊传·桓公七年》：“士不及兹四者，则冬不裘，夏不葛。”",
+		"example" : "举得起，放得下，以便冬裘夏葛的同它换衣服。（清·吴趼人《痛史》第一回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "冻浦鱼惊",
+		"pronunciation" : "dòng pǔ yú jīng",
+		"interpretation" : "指晋王祥卧冰求鲤事。后为孝亲之典。",
+		"source" : "《晋书·王祥传》：“王祥字休徵，琅邪临沂人……父母有疾，衣不解带，汤药必亲尝。母常欲生鱼，时天寒冰冻，祥解衣将剖冰求之，冰忽自解，双鲤跃出，持之而归。”",
+		"example" : "温席扇枕，承颜悦膝；冻浦鱼惊，寒林笋出。★北周·庚信《周柱国大将军拓跋俭神道碑》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "冻解冰释",
+		"pronunciation" : "dòng jiě bīng shì",
+		"interpretation" : "如同冰冻融化一般。比喻困难或障碍消除。",
+		"source" : "《庄子·庚桑楚》：“是乃所谓冰释冻释者能乎？”",
+		"example" : "则复取程氏书虚心平气而徐读之，未及数行，冻解冰释。（《朱子全书·中庸》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "刀山火海",
+		"pronunciation" : "dāo shān huǒ hǎi",
+		"interpretation" : "比喻极其危险和困难的地方。",
+		"source" : "",
+		"example" : "此刻，面前即使横着刀山火海，我们也必须打过去。（刘伯承《千里跃进大别山》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "刀耕火种",
+		"pronunciation" : "dāo gēng huǒ zhòng",
+		"interpretation" : "古时一种耕种方法，把地上的草烧成灰做肥料，就地挖坑下种。",
+		"source" : "《旧唐书·严震传》：“梁汉之间，刀耕火耨。”",
+		"example" : "随着农业机械化的普及，刀耕火种的那种原始的农业耕作技术已逐渐消失了。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "刀耕火耘",
+		"pronunciation" : "dāo gēng huǒ yún",
+		"interpretation" : "犹刀耕火种。",
+		"source" : "宋·苏轼《王公仪夔州路转运使程高夔州路判官制》：“三峡之民，刀耕火耘，与鹿豕杂居。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "刀耕火耨",
+		"pronunciation" : "dāo gēng huǒ nòu",
+		"interpretation" : "耨：除草。古人播种前先伐去树木烧掉野草，以灰肥田。泛指原始的耕作技术。",
+		"source" : "《旧唐书·严震传》：“梁汉之间，刀耕火耨。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "刀锯斧钺",
+		"pronunciation" : "dāo jù fǔ yuè",
+		"interpretation" : "古代四种刑具。借指酷刑。",
+		"source" : "《汉书·刑法志》：“大刑用甲兵，其次用斧钺，中刑用刀锯，其次用钻凿。”",
+		"example" : "翁无烦怒！有新妇在，刀锯斧钺，妇自受之，必不令贻害双亲。（清·蒲松龄《聊斋志异·小翠》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "刁天决地",
+		"pronunciation" : "diāo tiān jué dì",
+		"interpretation" : "形容大吵大闹。",
+		"source" : "",
+		"example" : "言不谙典，话不投机。看不得乔所为，歹见识，刁天决地。（《元曲选·误入桃园》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "刁滑奸诈",
+		"pronunciation" : "diāo huá jiān zhà",
+		"interpretation" : "刁钻、油滑、奸邪、诡诈。极其阴险狡猾。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "刁钻古怪",
+		"pronunciation" : "diāo zuān gǔ guài",
+		"interpretation" : "刁钻：狡诈；古怪：怪僻，不同寻常。形容为人行事狡猾怪僻，和别人不一样。",
+		"source" : "",
+		"example" : "你看古人中，那里有那些刁钻古怪的题目和那极险的韵？（清·曹雪芹《红楼梦》第三十七回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "动之以情",
+		"pronunciation" : "dòng zhī yǐ qíng",
+		"interpretation" : "用感情来打动他的心。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "动人心魄",
+		"pronunciation" : "dòng rén xīn pò",
+		"interpretation" : "魄：迷信者指依附人形体而存在的精神。形容使人感动或令人震惊。",
+		"source" : "",
+		"example" : "那秦淮到了有月色的时候，越是夜色已深，更有那细吹细唱的船来，凄清委婉，动人心魄。（清·吴敬梓《儒林外史》第二十四回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "动如脱兔",
+		"pronunciation" : "dòng rú tuō tù",
+		"interpretation" : "比喻行动敏捷。",
+		"source" : "《孙子·九地》：“是故始如处女，敌人开户；后如脱兔，敌不及拒。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "动心忍性",
+		"pronunciation" : "dòng xīn　rěn　xìng",
+		"interpretation" : "动心：使内心惊动；忍性：使性格坚韧。指不顾外界阻力，坚持下去。",
+		"source" : "《孟子·告子下》：“所以动心忍性，曾（增）益其所不能。”",
+		"example" : "古之贤哲，孰不病贫？苦其心志，空乏其身，动心忍性，方为志人。（明·赵弼《疥鬼对》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "动辄得咎",
+		"pronunciation" : "dòng zhé dé jiù",
+		"interpretation" : "辄：即；咎：过失，罪责。动不动就受到指摘或责难。",
+		"source" : "唐·韩愈《进学解》：“跋前踬后，动辄得咎。”",
+		"example" : "小厮因动辄得咎，只得说道：“请问主人：前引也不好，后随也不好，并行也不好，究竟怎样才好呢？”（清·李汝珍《镜花缘》第七十八回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "单丝不成线",
+		"pronunciation" : "dān sī bù chéng xiàn",
+		"interpretation" : "一根丝绞不成线。比喻个人力量单薄，难把事情办成。",
+		"source" : "元·无名氏《连环计》第二折：“说甚么单丝不线，我着你缺月再圆。”",
+		"example" : "你放心闹吧，先还“单丝不成线，独树不成林”，如今有了个对子了。（清·曹雪芹《红楼梦》第五十六回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "单兵孤城",
+		"pronunciation" : "dān bīng gū chéng",
+		"interpretation" : "单兵：寡弱无援的军队；孤城：孤立无依的城池。形容军队及其驻军的城池孤立无依，势力单薄，没有外援。",
+		"source" : "《后汉书·耿恭传》：“耿恭以单兵固守孤城，当匈奴之冲，对数万之众。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "单刀直入",
+		"pronunciation" : "dān dāo zhí rù",
+		"interpretation" : "用短柄刀直接刺入。原比喻认定目标，勇猛精进。后比喻说话直接了当，不绕弯子。",
+		"source" : "宋·释道元《景德传灯录》卷十二：“若是作家战将，便请单刀直入，更莫如何若何。”",
+		"example" : "上面一篇“嗣汉六十二代天师正一真人张元旭”的序文，尤为单刀直入。（鲁迅《热风》三十三）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "单刀赴会",
+		"pronunciation" : "dān dāo fù huì",
+		"interpretation" : "单刀：一把刀，指一个人。原指蜀将关羽只带一口刀和少数随从赴东吴宴会。后泛指一个人冒险赴约。有赞扬赴会者的智略和胆识之意。",
+		"source" : "《三国志·吴书·鲁肃传》：“肃邀羽相见，各驻兵马百步上，但请将军单刀赴会。”",
+		"example" : "吾来日独驾小舟，只用亲随十余人，单刀赴会，看鲁肃如何近我。（明·罗贯中《三国演义》第六十六回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "单则易折，众则难摧",
+		"pronunciation" : "dān zé yì zhé，zhòng zé nán cuī",
+		"interpretation" : "势孤力单，容易受人欺负；从多气壮，别人不敢欺侮。",
+		"source" : "《北史·吐谷浑传》：“单则易折，众则难摧。戮力一心，然后社稷可固也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "单枪匹马",
+		"pronunciation" : "dān qiāng pí mǎ",
+		"interpretation" : "原指打仗时一个人上阵。比喻行动没人帮助。",
+		"source" : "五代·楚·汪遵《乌江》诗：“兵散弓残挫虎威，单枪匹马突重围。”",
+		"example" : "冯寡妇大骂那些女人是熊包，自己单枪匹马，趁人们在街上歇晌的当儿，故意在大街上向村西头走。（冯德英《迎春花》第十三章）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "单鹄寡凫",
+		"pronunciation" : "dān hú guǎ fú",
+		"interpretation" : "鹄：天鹅；凫：罢鸭。孤单的天鹅，独居的野鸭。原是古代的琴曲名。后比喻失去配偶的人。",
+		"source" : "《西京杂记》卷五：“齐人刘道强善弹琴，能作单鹄寡凫之弄。听者皆悲，不能自摄。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "吊儿郎当",
+		"pronunciation" : "diào er láng dāng",
+		"interpretation" : "形容仪容不整，作风散漫，态度不严肃或不认真。",
+		"source" : "无",
+		"example" : "你不能总是这样吊儿郎当的好不好？",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "吊古寻幽",
+		"pronunciation" : "diào gǔ xún yōu",
+		"interpretation" : "吊：凭吊；幽：幽境。凭吊古迹，寻找幽境，感怀旧事。",
+		"source" : "明·冯梦龙《古今小说》第三十卷：“游山玩水，吊古寻幽，赏月吟风，怡情遣兴，诗赋文词，山川殆遍。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "吊民伐罪",
+		"pronunciation" : "diào mín fá zuì",
+		"interpretation" : "吊：慰问；伐：讨伐。慰问受苦的人民，讨伐有罪的统治者。",
+		"source" : "《孟子·滕文公下》：“诛其罪，吊其民，如时雨降，民大悦。”",
+		"example" : "丞相兴仁义之兵，吊民伐罪，官渡一战，破袁绍百万之众。（明·罗贯中《三国演义》第三十一回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "呆头呆脑",
+		"pronunciation" : "dāi tóu dāi nǎo",
+		"interpretation" : "呆：呆板，不灵活。形容思想、行动迟钝笨拙。",
+		"source" : "元·马致远《岳阳楼》第三折：“似这等呆脑呆头劝不回，呸！可不干赚了我奔走红尘九千里。”",
+		"example" : "小凤仙的脾气，人家说她不合时宜，其实她也是呆头呆脑，不惯作妓女腔，与人不合。（蔡东藩、许廑父《民国通俗演义》第五十一回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "呆若木鸡",
+		"pronunciation" : "dāi ruò mù jī",
+		"interpretation" : "呆：傻，发愣的样子。呆得象木头鸡一样。形容因恐惧或惊异而发愣的样子。",
+		"source" : "《庄子·达生》：“几矣。鸡虽有鸣者，已无变矣，望之似木鸡矣，其德全矣；异鸡无敢应者，反走矣。” 呆若木鸡的故事",
+		"example" : "匪首侯殿坤，在得知这个噩耗之后，特别是知道了老妖道的落网后，当即呆若木鸡。（曲波《林海雪原》二八）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "呆里撒奸",
+		"pronunciation" : "dāi lǐ sā jiān",
+		"interpretation" : "形容外表痴呆，内心奸诈。",
+		"source" : "",
+		"example" : "你休呆里撒奸，我手里使不的你巧语花言。（明·兰陵笑笑生《金瓶梅词话》第八十六回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "咄咄逼人",
+		"pronunciation" : "duō duō bī rén",
+		"interpretation" : "咄咄：使人惊奇的声音。形容气势汹汹，盛气凌人，使人难堪。也指形势发展迅速，给人压力。",
+		"source" : "晋·卫铄《与释某书》：“卫有一弟子王逸少，甚能学卫真书，咄咄逼人。”",
+		"example" : "书中攻击杨朱、墨翟两派，辞锋咄咄逼人。（朱自清《经典常谈·四书第七》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "咄嗟便办",
+		"pronunciation" : "duō jiē biàn bàn",
+		"interpretation" : "咄嗟：一呼一诺之间，形容时间短。比喻马上就办到。",
+		"source" : "南朝·宋·刘义庆《世说新语·汰侈》：“石崇为客作豆粥，咄嗟便办。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "地主之仪",
+		"pronunciation" : "dì zhǔ zhī yí",
+		"interpretation" : "住在本地的人对外地客人的招待义务。同“地主之谊”。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "地动山摇",
+		"pronunciation" : "dì dòng shēn yáo",
+		"interpretation" : "地震发生时大地颤动，山河摇摆。亦形容声势浩大或斗争激烈。",
+		"source" : "宋·欧阳修《欧阳文忠公集·奏议集·一二·论修河第一状》：“臣恐地动山摇，从此灾祸自此而始。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "地北天南",
+		"pronunciation" : "dì běi tiān nán",
+		"interpretation" : "指四处，到处。",
+		"source" : "清·孔尚任《桃花扇·题画》：“地北天南蓬转，巫云楚雨丝牵。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "地坼天崩",
+		"pronunciation" : "dì chè tiān bēng",
+		"interpretation" : "坼：开裂；崩：倒塌。地裂开，天崩塌。原指地震，后多比喻重大变故。",
+		"source" : "《战国策·赵策三》：“天崩地坼，天子下席。” 《后汉书·翟酺传》：“自去年以来，灾遣频数，地坼天崩，高岸为谷。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "地大物博",
+		"pronunciation" : "dì dà wù bó",
+		"interpretation" : "博：丰富。指国家疆土辽阔，资源丰富。",
+		"source" : "",
+		"example" : "我们伟大的祖国地大物博。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "地网天罗",
+		"pronunciation" : "dì wǎng tiān luó",
+		"interpretation" : "天罗：张在空中捕鸟的网。天空地面，遍张罗网。指上下四方设置的包围圈。比喻对敌人、逃犯等的严密包围。",
+		"source" : "《大宋宣和遣事》亨集：“才离阴府恓惶难，又值天罗地风灾。”元·无名氏《锁魔镜》第三折：“天兵下了天罗地网者，休要走了两洞妖魔。”",
+		"example" : "惊得宋公明目瞪口呆，罔不知所措，你便有文韬武略，怎逃出地网天罗。★明·施耐庵《水浒全传》第四十七回",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "地老天荒",
+		"pronunciation" : "dì lǎo tiān huāng",
+		"interpretation" : "指经历的时间极久。",
+		"source" : "唐·李贺《致酒行》：“吾闻马周昔作新丰客，天荒地老无人识。”",
+		"example" : "然而海枯石烂，此恨难消，地老天荒，此情不泯！（明·瞿佑《剪灯新话·绿衣人传》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "地角天涯",
+		"pronunciation" : "dì jiǎo tiān yá",
+		"interpretation" : "比喻偏远的地方或相隔很远。",
+		"source" : "南朝陈·徐陵《武皇帝作相时与岭南酋豪书》：“天涯藐藐，地角悠悠，言面无由，但似情企。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "堆案盈几",
+		"pronunciation" : "duī àn yíng jī",
+		"interpretation" : "堆：堆积。案：案头。公文、书信、图书等堆积满案头。原指等待处理的文凭大量积压。后也指书籍或文字材料非常多。",
+		"source" : "三国·魏·嵇康《与山巨源绝交书》：“素不便书，又不喜作书，而人间多事，堆案盈机；不相酬答，则犯教伤义，欲自勉强，则不能久。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "堆积如山",
+		"pronunciation" : "duī jī rú shān",
+		"interpretation" : "聚集成堆，如同小山。形容极多。",
+		"source" : "宋·孟元老《东京梦华录·外诸司》：“每遇冬月，诸乡纳粟秆草，牛车阗塞道路，车尾相衔，数千万辆不绝，场内堆积如山。”",
+		"example" : "福王仓中的粮食堆积如山，朽得不能再吃。（姚雪垠《李自成》第二卷第五十一章）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "堕甑不顾",
+		"pronunciation" : "duò zèng bù gù",
+		"interpretation" : "甑：古代一种瓦制炊器；顾：回头看。甑落地已破，不再看它。比喻既成事实，不再追悔。",
+		"source" : "《后汉书·郭泰传》：“客居太原，荷甑堕地，不顾而去。林宗见而问其意，对曰：‘甑已破矣，视之何益。’”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多一事不如少一事",
+		"pronunciation" : "duō yī shì bù rú shǎo yī shì",
+		"interpretation" : "指不管闲事，事情越少越好。",
+		"source" : "清·刘鹗《老残游记》第十二回：“现在国家正当多事之秋，那王公大臣只是恐怕耽处分，多一事不如少一事，弄得百事俱废，将来又是怎样个了局？”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多事之秋",
+		"pronunciation" : "duō shì zhī qiū",
+		"interpretation" : "多事：事故或事变多；秋：时期。事故或事变很多的时期。",
+		"source" : "宋·孙光宪《北梦琐言》卷十二：“所以多事之秋，灭迹匿端，无为绿林之嚆矢也。”",
+		"example" : "现在国家正当多事之秋，那王公大臣只是恐怕耽处分，多一事不如少一事，弄得百事俱废，将来又是怎样个了局？（《老残游记》第十二回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多口阿师",
+		"pronunciation" : "duō kǒu ā shī",
+		"interpretation" : "指喜欢多话的人。",
+		"source" : "宋·圆悟《碧岩录》卷五：“钵里饭桶里水，多口阿师难下嘴。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多嘴献浅",
+		"pronunciation" : "duō zuǐ xiàn qiǎn",
+		"interpretation" : "指胡乱说些没见识、不起好作用的话。",
+		"source" : "《醒世姻缘传》第二回：“这一定有多嘴献浅的人，对那强人说我在大门前看他起身，与街坊妇人说话。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多多益善",
+		"pronunciation" : "duō duō yì shàn",
+		"interpretation" : "益：更加。越多越好。",
+		"source" : "《史记·淮阴侯列传》：“臣多多益善耳。”",
+		"example" : "这位公子却有钱癖，思量多多益善，要学我这烧争之法。（清·吴敬梓《儒林外史》第十五回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多如牛毛",
+		"pronunciation" : "duō rú niú máo",
+		"interpretation" : "象牛身上的的毛那样多。形容极多。",
+		"source" : "《北史·文苑列传序》：“学者如牛毛，成者如麟角。”",
+		"example" : "老百姓痛恨官府催粮催捐，苛捐杂派多如牛毛，逼得老百姓活不下去。（姚雪垠《李自成》第二卷第二十八章）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多快好省",
+		"pronunciation" : "duō kuài hǎo shěng",
+		"interpretation" : "数量多，速度快，质量好，成本省。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多才多艺",
+		"pronunciation" : "duō cái duō yì",
+		"interpretation" : "具有多方面的才能和技艺。",
+		"source" : "《尚书·金滕》：“予仁若考，能多才多艺。”",
+		"example" : "那字刻得细入毫芒，却又波磔分明，不觉叹道：“此公真是多才多艺！”（清·吴趼人《二十目睹之怪现状》第四十三回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多材多艺",
+		"pronunciation" : "duō cái duō yì",
+		"interpretation" : "具有多方面的才能和技艺。同“多才多艺”。",
+		"source" : "《书·金縢》：“予仁若考，能多材多艺，能事鬼神。乃元孙不若旦多材多艺，不能事鬼神，乃命于帝庭，敷佑四方。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多此一举",
+		"pronunciation" : "duō cǐ yī jǔ",
+		"interpretation" : "指多余的，没有必要的举动。",
+		"source" : "",
+		"example" : "问起北京人来，只知道《三侠五义》，而南方人却只见有曲园老人的改本，此老实在可谓多此一举。（《鲁迅书信集·致胡适》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多歧亡羊",
+		"pronunciation" : "duō qí wáng yáng",
+		"interpretation" : "因岔路太多无法追寻而丢失了羊。比喻事物复杂多变，没有正确的方向就会误入歧途。也比喻学习的方面多了就不容易精深。",
+		"source" : "《列子·说符》：“大道以多歧亡羊，学者以多方丧生。”",
+		"example" : "然尝闻之，大道以多歧亡羊。（明·马中锡《中山狼传》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多行不义必自毙",
+		"pronunciation" : "duō xíng bù yì bì zì bì",
+		"interpretation" : "坏事干多了，结果是自己找死。",
+		"source" : "《左传·隐公元年》：“多行不义，必自毙，子姑待之。”",
+		"example" : "“多行不义必自毙”，这是有史以来的天经地义。（郭沫若《武则天》第四幕）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多言繁称",
+		"pronunciation" : "duō yán fán chēng",
+		"interpretation" : "讲话或写文章，浮词很多，不必要地大量引述。多指文风浮华不实。",
+		"source" : "《韩非子·难言》：“多言繁称，连类比物，则见以为虚而无用。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多许少与",
+		"pronunciation" : "duō xǔ shǎo yǔ",
+		"interpretation" : "答应人家的多，给予人家的少。",
+		"source" : "宋·张商英《素书》：“多许少与者怨。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "多财善贾",
+		"pronunciation" : "duō cái shàn gǔ",
+		"interpretation" : "贾：做买卖。原意是本钱多，生意就做得开。后指资本家会做买卖。",
+		"source" : "《韩非子·五蠹》：“长袖善舞，多钱善贾。”",
+		"example" : "他这次下来是越有越有，以后水大舟高，多财善贾，更是无往不利了。（清·吴趼人《糊涂世界》卷十一）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大中至正",
+		"pronunciation" : "dà zhōng zhì zhèng",
+		"interpretation" : "极为公正，不偏不倚。",
+		"source" : "明·王守仁《传习录》上卷：“不知先生居夷三载，处困养静，精一之功，固已超入圣城，粹然大中至正之归矣。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大义凛然",
+		"pronunciation" : "dà yì lǐn rán",
+		"interpretation" : "大义：正义；凛然：严肃、或敬畏的样子。由于胸怀正义而神态庄严，令人敬畏。",
+		"source" : "清·顾炎武《日知录》卷二十：“至于起王氏已废之魂，上配天皇；条高后擅政之年，下系中宗，大义凛然。”",
+		"example" : "因想起文丞相和谢先生，一般的大义凛然，使宋室虽亡，犹有余荣。（清·吴趼人《痛史》第二十二回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大义灭亲",
+		"pronunciation" : "dà yì miè qīn",
+		"interpretation" : "大义：正义，正道；亲：亲属。为了维护正义，对犯罪的亲属不循私情，使受到应得的惩罚。",
+		"source" : "《左传·隐公四年》：“大义灭亲，其是之谓乎。” 大义灭亲的故事",
+		"example" : "这是一条汉子，大义灭亲，死活只有一个党。（丁玲《太阳照在桑干河上》二四）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大书特书",
+		"pronunciation" : "dà shū tè shū",
+		"interpretation" : "书：写。大写特写。指对意义重大的事情特别郑重地加以记载。",
+		"source" : "唐·韩愈《答元侍御书》：“而足下年尚强，嗣德有继，将大书特书，屡书不一书而已也。”",
+		"example" : "倘令为林文忠作传，则烧鸦片一事，固当大书特书。（清·吴汝纶《答严几道》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大事不糊涂",
+		"pronunciation" : "dà shì bù hú tú",
+		"interpretation" : "指在有关政治的是非问题上能坚持原则，态度鲜明。",
+		"source" : "《宋史·吕端传》：“端小事糊涂，大事不糊涂。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大事去矣",
+		"pronunciation" : "dà shì qù yǐ",
+		"interpretation" : "去：失去。形容事情无法挽回了。多指政权丧失，国家灭亡等大事。",
+		"source" : "汉·荀悦《汉纪·高祖纪》：“诚用此计，大事去矣。” 北周·庾信《哀江南赋》：“大事去矣，人之云亡。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大事铺张",
+		"pronunciation" : "dà shì pū zhāng",
+		"interpretation" : "指对场面特别安排，过于讲究，以显示自己的阔绰。多用于婚丧大事。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大人虎变",
+		"pronunciation" : "dà rén hǔ biàn",
+		"interpretation" : "虎变：如虎身花纹的变化。比喻居上位者出处行动变化莫测。",
+		"source" : "《周易·革》：“大人虎变，未占有孚。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大仁大义",
+		"pronunciation" : "dà rén dà yì",
+		"interpretation" : "形容为人宽厚，尊崇仁义。",
+		"source" : "明·罗贯中《三国演义》第四十三回：“至于刘琮降（曹）操，豫州（刘备）实不知；且又忍乘乱夺同宗之基业，此真大仁大义也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大公无私",
+		"pronunciation" : "dà gōng wú sī",
+		"interpretation" : "指办事公正，没有私心。现多指从集体利益出发，毫无个人打算。",
+		"source" : "汉·马融《忠经·天地神明》：“忠者中也，至公无私。” 大公无私的故事",
+		"example" : "要把你的志向拿定，而且要抱着一个光明磊落、大公无私的心怀。（郭沫若《屈原》第一幕）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大兴土木",
+		"pronunciation" : "dà xīng tǔ mù",
+		"interpretation" : "兴：创办；土木：指建筑工程。大规模地盖房子。",
+		"source" : "宋·洪迈《容斋三笔》卷十一：“奸佞之臣，罔真宗以符端，大兴土木之役，以为通宫玉清昭应之建。”",
+		"example" : "灵王既归，耻其无功，乃大兴土木，欲以物力制度，夸示诸侯。（明·冯梦龙《东周列国志》第六十七回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大刀阔斧",
+		"pronunciation" : "dà dāo kuò fǔ",
+		"interpretation" : "原指使用阔大的刀斧砍杀敌人。后比喻办事果断而有魄力。",
+		"source" : "明·施耐庵《水浒全传》第一百十八回：“当下催军劫寨，大刀阔斧，杀将进去。”",
+		"example" : "世界上原有两种人：一种是大刀阔斧的人，一种是细针密线的人。（朱自清《山野掇拾》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大功告成",
+		"pronunciation" : "dà gōng gào chéng",
+		"interpretation" : "功：事业；告：宣告。指巨大工程或重要任务宣告完成。",
+		"source" : "《汉书·王莽传上》：“十万众并集，平作二旬，大功毕成。”",
+		"example" : "及大功告成，天下已定，而后实行其共和主义之政策，恢复我完全之金瓯。（章炳麟《驳革命驳议》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大动干戈",
+		"pronunciation" : "dà dòng gān gē",
+		"interpretation" : "大规模地进行战争。比喻大张声势地行事。",
+		"source" : "",
+		"example" : "同学们应友好相处，不能为一些小事情而大动干戈。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大势已去",
+		"pronunciation" : "dà shì yǐ qù",
+		"interpretation" : "大势：事情发展的趋势。有利的形势已经丧失，前途已经没有希望。",
+		"source" : "明·许仲琳《封神演义》第九十七回：“纣王看见，不觉大惊，知大势已去，非人力可挽。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大势所趋",
+		"pronunciation" : "dà shì suǒ qū",
+		"interpretation" : "大势：指整个局势。整个局势发展的趋向。",
+		"source" : "宋·陈亮《上孝宗皇帝第三书》：“天下大势之所趋，非人力之所能移也。”",
+		"example" : "解放区人民的力量，大后方人民的力量，国际形势，大势所趋，使得国民党不得不承认这些东西。（毛泽东《关于重庆谈判》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大匠运斤",
+		"pronunciation" : "dà jiàng yùn jīn",
+		"interpretation" : "比喻人技艺精湛或文笔娴熟高超。",
+		"source" : "语出《庄子·徐无鬼》：“郢人垩漫其鼻端，若蝇翼，使匠石斫之，匠石运斤成风，听而斫之，尽垩而鼻不伤，郢人立不失容。”",
+		"example" : "东坡尝曰：‘渊明诗初看若散缓，熟看有奇句……似大匠运斤，不见斧凿之痕。★宋·惠洪《冷斋夜话》卷一",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大千世界",
+		"pronunciation" : "dà qiān shì jiè",
+		"interpretation" : "佛教用语，世界的千倍叫小千世界，小千世界的千倍叫中千世界，中千世界的千倍叫大千世界。后指广大无边的人世。",
+		"source" : "宋·释道原《景德传灯录》卷九：“长老身材勿量大，笠子太小生。师云：‘虽然如此大千世界总在里许。’”",
+		"example" : "大千世界无奇不有，充满了矛盾。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大厦将倾",
+		"pronunciation" : "dà shà jiāng qīng",
+		"interpretation" : "高楼大屋，眼看就要倒了。比喻即将来临的崩溃局势。",
+		"source" : "《文中子·事君》：“大厦将颠，非一木所支也。”",
+		"example" : "其实，这也难怪，大厦将倾，独木难支，谁又不是这样？（罗广斌、杨益言《红岩》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大厦栋梁",
+		"pronunciation" : "dà shà dòng liáng",
+		"interpretation" : "比喻担负国家重任的人才。",
+		"source" : "《晋书·和峤传》：“太傅从事中郎庾顗见而叹曰：‘峤森森如千丈松，虽磥砢多节目，施之大厦，有栋梁之用。’”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大发慈悲",
+		"pronunciation" : "dà fā cí bēi",
+		"interpretation" : "比喻起善心，做好事。",
+		"source" : "",
+		"example" : "他说三天之内，照着祖爷爷的吩咐送过来。请祖爷爷大发慈悲，代他们打点打点！（清·吴趼人《二十年目睹之怪现状》第九十二回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大发雷霆",
+		"pronunciation" : "dà fā léi tíng",
+		"interpretation" : "霆：呼雷，喻震怒。比喻大发脾气，大声斥责。",
+		"source" : "《三国志·吴书·陆逊传》：“今不忍小忿而发雷霆之怒。”",
+		"example" : "不知说了一句甚么话，符老爷登时大发雷霆起来，把那独脚桌子一掀。(清·吴趼人《二十年目睹之怪现状》第七十四回)",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大吉大利",
+		"pronunciation" : "dà jí dà lì",
+		"interpretation" : "非常吉祥、顺利。旧时用于占卜和祝福。",
+		"source" : "明·罗贯中《三国演义》第五十四回：“孔明曰：‘来意亮已知道了。适间卜《易》，得一大吉大利之兆。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大同小异",
+		"pronunciation" : "dà tóng xiǎo yì",
+		"interpretation" : "大体相同，略有差异。",
+		"source" : "《庄子·天下》：“大同而与小同异，此之谓小同异；万物毕同毕异，此之谓大同异。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大名鼎鼎",
+		"pronunciation" : "dà míng dǐng dǐng",
+		"interpretation" : "鼎鼎：盛大的样子。形容名气很大。",
+		"source" : "",
+		"example" : "你一到京打听人家，像他这样大名鼎鼎，还怕有不晓得的。（清·李宝嘉《官场现形记》第二十四回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大含细入",
+		"pronunciation" : "dà hán xì rù",
+		"interpretation" : "原指文章的内容，既包涵天地的元气，又概括了极微小的事物。形容文章博大精深。",
+		"source" : "汉·扬雄《解嘲》：“大者含元气，细者入无间。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大吹大擂",
+		"pronunciation" : "dà chuī dà léi",
+		"interpretation" : "许多乐器同时吹打。比喻大肆宣扬。",
+		"source" : "元·王实甫《丽春堂》第四折：“赐你黄金千两，香酒百瓶，就在丽春堂大吹大擂，做一个庆喜的筵席。”",
+		"example" : "真正有知识的人绝不会大吹大擂。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大吹法螺",
+		"pronunciation" : "dà chuī fǎ luó",
+		"interpretation" : "比喻空口说大话。",
+		"source" : "《金光明经·赞叹品》：“吹大法螺，击大法鼓，燃大法炬，雨胜法雨。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大喜过望",
+		"pronunciation" : "dà xǐ guò wàng",
+		"interpretation" : "过：超过；望：希望。结果比原来希望的还好，因而感到特别高兴。",
+		"source" : "《汉书·黥布传》：“出就舍，张御食饮从官如汉王居，布又大喜过望。”",
+		"example" : "灿若灯下一看，正是前日相逢之人，不觉大喜过望，方才放下了心。（明·凌濛初《初刻拍案惊奇》卷十六）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大器晚成",
+		"pronunciation" : "dà qì wǎn chéng",
+		"interpretation" : "大器：比喻大才。指能担当重任的人物要经过长期的锻炼，所以成就较晚。也用做对长期不得志的人的安慰话。",
+		"source" : "《老子》：“大方无隅，大器晚成。” 大器晚成的故事",
+		"example" : "二位先生高才久屈，将来定是大器晚成的。（清·吴敬梓《儒林外史》第四十九回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大地回春",
+		"pronunciation" : "dà dì huí chūn",
+		"interpretation" : "指冬去春来，草木萌生，大地上出现一片生机景象。有时亦用比喻形势好转。",
+		"source" : "",
+		"example" : "阴历正月初三日立春，当时有大地回春，万象更新之义，故诹吉于初四日。（蔡东藩、许廑父《民国通俗演义》第六十二回夹注）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大块文章",
+		"pronunciation" : "dà　kuài　wén zhāng",
+		"interpretation" : "大块：大地。原指大自然锦绣般美好的景色。后用以称赞别人内容丰富的长篇文章。",
+		"source" : "唐·李白《春夜宴从弟桃李园序》：“况阳春召我以烟景，大块假我以文章。”",
+		"example" : "眉山苍苍，大块文章，兽纽头，篆鸟迹，中空无物，何止容卿辈数十。（清·黄景仁《砚铭》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大块朵颐",
+		"pronunciation" : "dà kuài duǒ yí",
+		"interpretation" : "朵颐：鼓动腮颊，即大吃大嚼。痛痛快快地大吃一顿。",
+		"source" : "《周易·颐》：“观我朵颐，凶。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大声疾呼",
+		"pronunciation" : "dà shēng jí hū",
+		"interpretation" : "疾：快。大声呼喊，引起人们注意。",
+		"source" : "唐·韩愈《后十九日复上宰相书》：“行且不息，以蹈于穷饿之水火，其既危且亟矣，大其声而疾呼矣。”",
+		"example" : "我们可以大声疾呼，而不要隐晦曲折，使人民大众不易看懂。（毛泽东《在延安文艺座谈会上的讲话》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大处着墨",
+		"pronunciation" : "dà chù zhuó mò",
+		"interpretation" : "原指画画或写文章要在主要部分下功夫。比喻做事从大处着眼。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大处着眼",
+		"pronunciation" : "dà chù zhuó yǎn",
+		"interpretation" : "从大的方面观察、思考问题，抓住主要矛盾。",
+		"source" : "",
+		"example" : "嘁嘁嚓嚓，招生是非，搬弄口舌，决不在大处着眼。（鲁迅《且介亭杂文末编·答徐懋庸并关于抗日统一战线问题》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大处落墨",
+		"pronunciation" : "dà chù luò mò",
+		"interpretation" : "落墨：落笔。原指画画或写文章要在主要部分下功夫。比喻做事从大处着眼。",
+		"source" : "",
+		"example" : "你老哥也算得会用的了，真正阔手笔！看你不出，倒是个大处落墨的！（清·李宝嘉《官场现形记》第二十回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大大落落",
+		"pronunciation" : "dà dà luò luò",
+		"interpretation" : "形容态度大方。亦形容随随便便，满不在乎。",
+		"source" : "",
+		"example" : "不能大大落落的，一定得认真负责，多向支部汇报，争取帮助。（李准《两代人》三）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大天白日",
+		"pronunciation" : "dà tiān bái rì",
+		"interpretation" : "白天。强调跟暮夜黑暗对照。",
+		"source" : "",
+		"example" : "大天白日，人来人往，你就在这里忆不方便。（清·曹雪芹《红楼梦》第十二回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大失人望",
+		"pronunciation" : "dà shī rén wàng",
+		"interpretation" : "指在群众中严重丧失威望，威信扫地。",
+		"source" : "《史记·高祖本记》：“秦人大失望。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大失所望",
+		"pronunciation" : "dà shī suǒ wàng",
+		"interpretation" : "表示原来的希望完全落空。",
+		"source" : "《史记·高祖本记》：“秦人大失望。”",
+		"example" : "瑞虹大失所望，但到此地间，无可奈何。（明·冯梦龙《醒世恒言》卷三十六）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大头小尾",
+		"pronunciation" : "dà tóu xiǎo wěi",
+		"interpretation" : "犹“虎头蛇尾”。比喻做事前紧后松，有始无终。",
+		"source" : "",
+		"example" : "这是中国官场办事一向大头小尾惯的，并不是做书的人先祥后略，有始无终也。（清·李宝嘉《官场现形记》第三十三回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大好河山",
+		"pronunciation" : "dà hǎo hé shān",
+		"interpretation" : "河山：国土。无限美好的祖国大地。",
+		"source" : "",
+		"example" : "……彼乃举其防家贼、媚异族之手段，送我大好河山。（清·秋瑾《普告同胞檄",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大家闺秀",
+		"pronunciation" : "dà jiā guī xiù",
+		"interpretation" : "旧指世家望族中有才德的女子。也泛指有钱有势人家的女儿。",
+		"source" : "南朝·宋·刘义庆《世说新语·贤媛》：“顾家妇清心玉映，自是闺房之秀。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大家风范",
+		"pronunciation" : "dà jiā fēng fàn",
+		"interpretation" : "大家：旧指有声望地位的高门贵族。风范：风度、气派。出自高贵人家特有的气派。",
+		"source" : "",
+		"example" : "献茶已毕，叙起话来，问答如流，气度从容，真是大家风范，把个狄后乐了个了不得。（清·石玉昆《三侠五义》第十八回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大寒索裘",
+		"pronunciation" : "dà hán suǒ qiú",
+		"interpretation" : "等到大冷天才去找毛皮衣服。比喻平时没有准备，事到临头十分慌乱。",
+		"source" : "汉·扬雄《法言·寡见》：“大寒而后索认裘，不亦晚乎？”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大展宏图",
+		"pronunciation" : "dà zhǎn hóng tú",
+		"interpretation" : "展：把卷画打开，比喻实现；宏图：比喻宏伟远大的谋略与计划。大规模地实施宏伟远大的计划或抱负。",
+		"source" : "唐·韩愈《为裴相公让官表》：“启中兴之宏图，当太平之昌历。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大展经纶",
+		"pronunciation" : "dà zhǎn jīng lún",
+		"interpretation" : "经纶：整理丝缕，比喻治理国家，也指政治才能。充分施展政治才能。",
+		"source" : "明·罗贯中《三国演义》第三十八回：“先取荆州后取川，大展经纶补天手。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大巧若拙",
+		"pronunciation" : "dà qiǎo ruò zhuō",
+		"interpretation" : "拙：笨。指真正聪明的人，不显露自己，从表面看，好象笨拙。",
+		"source" : "《老子》第四十五章：“大直若屈，大巧若拙，大辨若讷。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大度包容",
+		"pronunciation" : "dà dù bāo róng",
+		"interpretation" : "形容气量大，能宽容人。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大庭广众",
+		"pronunciation" : "dà tíng guǎng zhòng",
+		"interpretation" : "大庭：宽大的场地；广众：为数很多的人群。指聚集很多人的公开场合。",
+		"source" : "《孔丛子·公孙龙》：“使此人于广庭大众之中，见侮而不敢斗，王将以为臣乎？”",
+		"example" : "这是秘密的事，他敢在大庭广众之下喧扬起来？（清·吴趼人《二十年目睹之怪现状》第八十六回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大开大合",
+		"pronunciation" : "dà dāi dà hé",
+		"interpretation" : "形容文思跌荡，放得开，收得拢。",
+		"source" : "",
+		"example" : "今年天作奇文章，大开大合为弛张。（清·赵翼《忧旱》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大开方便之门",
+		"pronunciation" : "dà kāi fāng biàn zhī mén",
+		"interpretation" : "给予极大的方便。",
+		"source" : "明·冯惟敏《僧尼共犯》四：“谁想巡捕老爷大开方便之门，放俺还俗，便成配偶。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大开眼界",
+		"pronunciation" : "dà dāi yǎn jiè",
+		"interpretation" : "开阔视野，增回见识。",
+		"source" : "唐·李濬《松窗杂录·楚几》：“光业马上取笔答之，曰：‘大开眼界莫言冤。’”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大张其词",
+		"pronunciation" : "dà zhāng qí cí",
+		"interpretation" : "张：宣扬。大肆宣扬某种说法。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大张声势",
+		"pronunciation" : "dà zhāng shēng shì",
+		"interpretation" : "大造声势，扩大影响。",
+		"source" : "《宋史·李师中传》：“今修筑必广发兵，大张声势。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大张挞伐",
+		"pronunciation" : "dà zhāng tà fá",
+		"interpretation" : "张：施展；挞伐：讨伐。比喻大规模地攻击或声讨。",
+		"source" : "《诗经·商颂·殷武》：“挞彼殷武，奋伐荆楚。”",
+		"example" : "我国若不大张挞伐，一奋神威，靠着各国的空文劝阻，他那里肯甘心就范呢！（清·曾朴《孽海花》第十四回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大张旗鼓",
+		"pronunciation" : "dà zhāng qí gǔ",
+		"interpretation" : "张：陈设，展示；旗鼓：旗帜和战鼓。形容进攻的声势和规模很大。也形容群众活动声势和规模很大。",
+		"source" : "",
+		"example" : "李参戎带著这些人陆续出了镇南关，便大张旗鼓，排齐队伍，浩浩荡荡的向前进发。（清·张春帆《宦海》第九回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大彻大悟",
+		"pronunciation" : "dà chè dà wù",
+		"interpretation" : "彻：明白；悟：领会。形容彻底醒悟。",
+		"source" : "清·刘鹗《老残游记续编》第四回：“到这时候，我仿佛大彻大悟了不是？”",
+		"example" : "这一回，得看你是不是大彻大悟，决心离开下流社会，迈步走进上流社会了。（欧阳山《苦斗》四三）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大得人心",
+		"pronunciation" : "dà dé rén xīn",
+		"interpretation" : "人心：即民心。指受百姓热烈拥护。",
+		"source" : "《魏书·昭成子孙传》：“太祖命督屯田于河北，自五原至棝杨塞外，分家稼，大得人心。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大快人心",
+		"pronunciation" : "dà kuài rén xīn",
+		"interpretation" : "指坏人坏事受到惩罚或打击，使大家非常痛快。",
+		"source" : "清·全祖望《移诘宁守魏某帖子》：“若果有激浊扬清之当道，则乘是狱之起，并其监生而黜之，是为大快人心者矣。”",
+		"example" : "“老江，你看多么大快人心呀！”说到这里，她喘了一口气，发觉自己太兴奋了。（杨沫《青春之歌》第二部第三十九章）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大惊失色",
+		"pronunciation" : "dà jīng shī sè",
+		"interpretation" : "非常害怕，脸色都变了。",
+		"source" : "《汉书·霍光传》：“群臣皆惊愕失色，莫敢发言。”",
+		"example" : "金方伯听见不是王慕维，又自称举人，不觉大惊失色。（清·张春帆《宦海》第二回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大惊小怪",
+		"pronunciation" : "dà jīng xiǎo guài",
+		"interpretation" : "形容对没有什么了不起的的事情过分惊讶。",
+		"source" : "宋·朱熹《答林择之》：“要肱把此事做一平常事看，朴实头做将去，久之自然见效，不必如此大惊小怪，起模画样也。”",
+		"example" : "兄弟，休要大惊小怪的，则他便是杨衙内，是个有权有势的的。（元·李文蔚《燕青博鱼》第一折）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大惑不解",
+		"pronunciation" : "dà huò bù jiě",
+		"interpretation" : "感到非常迷惑，不能理解。",
+		"source" : "《庄子·天地》：“大惑者终身不解，大愚者终身不灵。”",
+		"example" : "母疑涉妄，然窥女无他，大惑不解。（清·蒲松龄《聊斋志异·土偶》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大慈大悲",
+		"pronunciation" : "dà cí dà bēi",
+		"interpretation" : "慈：用爱护心给予众生以安乐；悲：用怜悯心解除众生的痛苦；慈悲：佛家语，救人苦难。形容人心肠慈善。",
+		"source" : "《妙法莲花经·譬喻品》：“大慈大悲，常无懈倦，恒求善事，利益一切。”",
+		"example" : "万望长老收录，大慈大悲，看赵某薄面，披剃为僧。（明·施耐庵《水浒全传》第四回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大手大脚",
+		"pronunciation" : "dà shǒu dà jiǎo",
+		"interpretation" : "形容花钱、用东西不节省。",
+		"source" : "清·曹雪芹《红楼梦》第五十一回：“成年家大手大脚的，替太太不知背地里赔垫了多少东西，真真赔的是说不出来的，那里又和太太算去。”",
+		"example" : "他平时不节俭，花钱总是大手大脚的。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大才榱槃",
+		"pronunciation" : "dà cái cuī pán",
+		"interpretation" : "指有大才干的人。同“大才槃槃”。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大才槃槃",
+		"pronunciation" : "dà cái pán pán",
+		"interpretation" : "槃槃：形容大的样子。指有大才干的人。",
+		"source" : "南朝·宋·刘义庆《世说新语·赏誉下》刘孝标注引《续晋阳秋》：“大才槃槃谢家安。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大打出手",
+		"pronunciation" : "dà dǎ chū shǒu",
+		"interpretation" : "打出手：戏曲中的一种武打技术，一出剧中的主要人物与多个对手相打，形成种种武打场面。比喻逞凶打人或殴斗。",
+		"source" : "",
+		"example" : "有些人缺乏法律观念，为一点小事也能大打出手。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大摇大摆",
+		"pronunciation" : "dà yáo dà bǎi",
+		"interpretation" : "走路时身子摇摇摆摆。形容自以为了不起的傲慢神态。",
+		"source" : "",
+		"example" : "次日早晨，大摇大摆出堂，将回子发落了。（清·吴敬梓《儒林外史》第五回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大放厥词",
+		"pronunciation" : "dà fàng jué cí",
+		"interpretation" : "厥：其，他的；词：文辞，言辞。原指铺张词藻或畅所欲言。现用来指大发议论。",
+		"source" : "唐·韩愈《祭柳子厚文》：“玉佩琼琚，大放厥词。”",
+		"example" : "也许他认定我年轻无知，才毫无顾虑地在我面前大放厥词。（郭良蕙《焦点》十）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大放厥辞",
+		"pronunciation" : "dà fàng jué cí",
+		"interpretation" : "指写出大量优美的辞章。",
+		"source" : "唐·韩愈《祭柳子厚文》：“玉佩琼琚，大放厥辞。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大放悲声",
+		"pronunciation" : "dà fàng bēi shēng",
+		"interpretation" : "放声痛哭。形容非常伤心。",
+		"source" : "",
+		"example" : "少奶奶掩面大哭道：“只是我的天唷！”说着大放悲声。（清·吴趼人《二十年目睹之怪现状》第八十九回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大政方针",
+		"pronunciation" : "dà zhèng fāng zhēn",
+		"interpretation" : "重大的政策与措施，引导事业前进的方向和指针。",
+		"source" : "",
+		"example" : "颇欲展施抱负，造成一法治国，所以一经就任，便草就大政方针宣言书，拟向国会宣布。（蔡东藩、许廑父《民国通俗演义》第三十八回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大敌当前",
+		"pronunciation" : "dà dí dāng qián",
+		"interpretation" : "面对着强敌。形容形势严峻。",
+		"source" : "",
+		"example" : "大敌当前，自然以收揽民心，合力御侮为顶要的事。（高阳《清宫外史》下册）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大方之家",
+		"pronunciation" : "dà fāng zhī jiā",
+		"interpretation" : "大方：大道理。原指懂得大道理的人。后泛指见识广博或学有专长的人。",
+		"source" : "《庄子·秋水》：“吾长见笑于大方之家。”",
+		"example" : "故大方之家，每不屑道焉。（清·梁启超《译印政治小说序》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大旱云霓",
+		"pronunciation" : "dà hàn yún ní",
+		"interpretation" : "云霓：下雨的征兆。好象大旱的时候盼望寸水一样。比喻渴望解除困境。",
+		"source" : "《孟子·梁惠王下》：“民望之，若大旱之望云霓也。”",
+		"example" : "下泉蓍黍思王泽，大旱云霓企说霖。（清·沈曾植《和缶翁元日韵》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大旱望云",
+		"pronunciation" : "dà hàn wàng yún",
+		"interpretation" : "比喻渴望解除困境，如久旱盼望下雨一样。",
+		"source" : "先秦·孟轲《孟子·梁惠王下》：“民望之，若大旱之望云霓也。”",
+		"example" : "日与吏民延颈企锺，虽大旱望云，执热思濯，未喻其急也。★宋·苏轼《上执政乞度牒赈济及修廨宇书》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大旱望云霓",
+		"pronunciation" : "dà hàn wàng yún ní",
+		"interpretation" : "云霓：下雨的征兆。好象大旱的时候盼望寸水一样。比喻渴望解除困境。",
+		"source" : "《孟子·梁惠王下》：“民望之，若大旱之望云霓也。”",
+		"example" : "足足等了一个钟头的光景，而我们如大旱望云霓一样，所等候的兵车始终没有开来。（郭沫若《学生时代·到宜兴去》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大明法度",
+		"pronunciation" : "dà jíng fǎ dù",
+		"interpretation" : "明：严明；法度：规矩，制度。大力严明制度、法规。",
+		"source" : "宋·王安石《上时政疏》：“盖夫天下之大器也，非大明法度，不足以维持，非众建贤才，不足以保守。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大是大非",
+		"pronunciation" : "dà shì dà fēi",
+		"interpretation" : "属于政治原则性的是非问题。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大显神通",
+		"pronunciation" : "dà xiǎn shén tōng",
+		"interpretation" : "神通：原为佛家语，指无所不能的力量。后指特别高超的本领。形容充分显示出高明的本领。",
+		"source" : "明·吴承恩《西游记》第八十九回：“他三人辞了师父，在城外大显神通。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大显身手",
+		"pronunciation" : "dà xiǎn shēn shǒu",
+		"interpretation" : "显：表露，表现；身手：指本领。充分显示出本领和才能。",
+		"source" : "",
+		"example" : "爱唱的人，就在舞台上痛痛快快唱吧！爱种棉花的，就在连成片的土地上大显身手吧！（茹志娟《高高的白杨树》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大智若愚",
+		"pronunciation" : "dà zhì ruò yú",
+		"interpretation" : "某些才智出众的人，看来好象愚笨，不露锋芒。",
+		"source" : "宋·苏轼《贺欧阳少师致仕启》：“大勇若怯，大智如愚。”",
+		"example" : "执雌守黑，不敢自遂，大智若愚，于是乎在。（章炳麟《箴新党论》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大有人在",
+		"pronunciation" : "dà yǒu rén zài",
+		"interpretation" : "形容某一种人为数不少。",
+		"source" : "《资治通鉴·隋纪炀帝大业十一年》：“帝至东都，顾眄街衢，谓侍臣曰：‘犹大有人在。’意谓向日平杨玄感，杀人尚少故也。”",
+		"example" : "出面的虽是章士钊，其实黑幕中大有人在。（《鲁迅书信集·致李秉中》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大有作为",
+		"pronunciation" : "dà yǒu zuò wéi",
+		"interpretation" : "作为：做出成绩。能够极大地发挥作用，作一番贡献。",
+		"source" : "清·毕沅《续资治通鉴·宋纪理宗景定四年》：“仁宗治效浃洽，神宗大有作为。”",
+		"example" : "民国元年革命后，先生的所志已达，该可以大有作为了，然而还是不得志。（鲁迅《且介亭杂文末编·关于于太炎先生二三事》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大有可为",
+		"pronunciation" : "dà yǒu kě wéi",
+		"interpretation" : "事情有发展前途，很值得做。",
+		"source" : "",
+		"example" : "出国留学人员回国后也是大有可为的。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大有可观",
+		"pronunciation" : "dà yǒu kě guān",
+		"interpretation" : "指很值得看，很值得重视。",
+		"source" : "",
+		"example" : "这个捐款也就大有可观了。（清·李宝嘉《文明小史》第七回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大有径庭",
+		"pronunciation" : "dà yǒu jìng tíng",
+		"interpretation" : "比喻相差很远，大不相同。",
+		"source" : "《庄子·逍遥游》：“吾惊怖其言，犹河汉而无极也。大有径庭，不近人情焉？”",
+		"example" : "他这次发言和上次比较，内容大有径庭。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大有裨益",
+		"pronunciation" : "dà yǒu bì yì",
+		"interpretation" : "裨益：益处、好处。形容益处很大。",
+		"source" : "《北齐书·唐邕传》：“比及武平之末，府藏渐虚，邕度支取金，大有裨益。”",
+		"example" : "其间卓然自得者，于圣经贤传，大有裨益。（明·焦竑《玉堂丛语·文学》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大有起色",
+		"pronunciation" : "dà yǒu qǐ sè",
+		"interpretation" : "明显地出现好转的样子（多指焕散的工作或觉重的疾病）。",
+		"source" : "",
+		"example" : "皖省惟英、霍有零贼，余亦肃清，南中军务，大有起色。（清·张集馨《道咸宦海见闻录》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大本大宗",
+		"pronunciation" : "dà běn dà zōng",
+		"interpretation" : "本：根本；宗：本，主旨。最根本，最重要的东西。",
+		"source" : "《庄子·天道》：“夫明白于天地之德者，此之谓大本大宗，与天和者也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大杀风景",
+		"pronunciation" : "dà shā fēng jǐng",
+		"interpretation" : "意思是损害景物，破坏人的兴致。今泛称败人兴致为大杀风景。",
+		"source" : "唐·李商隐《杂纂》把“花间喝道”、“月下把火”等列为“杀风景”的事情。",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大权在握",
+		"pronunciation" : "dà quán zài wò",
+		"interpretation" : "手中掌握有很大权力。",
+		"source" : "",
+		"example" : "王安石得到神宗皇帝的支持，大权在握，就全力来推行一些新的政治。（蒲韧《二千年间》九）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大权旁落",
+		"pronunciation" : "dà quán páng luò",
+		"interpretation" : "处理重大事情的权力落到旁人手里（多指领导人被架空）。",
+		"source" : "明·东鲁古狂生《醉醒石》第十一回：“借光唬百兽，大权叹旁落。”",
+		"example" : "现在京里，很有人说亲家的闲话说亲家请了一位洋人做老夫子，大权旁落，自己一点事不问。（清·李宝嘉《官场现形记》第五十八回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大权独揽",
+		"pronunciation" : "dà quán dú lǎn",
+		"interpretation" : "揽：把持。一个人把持着权力，独断专行。",
+		"source" : "",
+		"example" : "他却忘其所以，大权独揽，只弄些小聪明，闹些空意气。（清·曾朴《孽海花》第六回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大材小用",
+		"pronunciation" : "dà cái xiǎo yòng",
+		"interpretation" : "把大的材料当成小的材料用。比喻使用不当，浪费人才。",
+		"source" : "《后汉书·边让传》：“此言大器之于小用，固有所不宜也。” 大材小用的故事",
+		"example" : "大材小用古所叹，管仲萧何实流业。（宋·陆游《送辛幼安殿撰造朝》诗）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大杖则走",
+		"pronunciation" : "dà zhàng zé zǒu",
+		"interpretation" : "杖：木棍；走：逃跑。舜的父亲用大棍子打他时，他就逃走躲避，免陷父亲于不义。旧时宣扬的封建孝道。",
+		"source" : "汉·刘向《说苑·建本》：“舜之事父也，索而使之，未尝不在侧；求而杀之，未尝可得。小箠则待，大箠则走，以逃暴怒也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大树将军",
+		"pronunciation" : "dà shù jiāng jūn",
+		"interpretation" : "原指东汉冯异。后常指不居功自傲的将领。",
+		"source" : "《后汉书·冯异传》：“诸将军并坐论功，异常独屏树下，军中号曰‘大树将军’。”",
+		"example" : "武帝尝指道根示尚书令沈约，美其口不论勋。约曰：“此陛下之大树将军也。”（南史·冯道要列传《）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大梦初醒",
+		"pronunciation" : "dà mèng chū xǐng",
+		"interpretation" : "象做了一场大梦才醒。比喻被错误的东西蒙蔽了许久，开始醒悟过来。",
+		"source" : "《庄子·齐物论》：“且有大觉，而后知此其大梦也。”",
+		"example" : "从一九年以来，她才仿佛从大梦初醒似的，又从事于版画了。（鲁迅《且介亭杂文末编·〈凯绥·珂勒惠支版画选集〉序目》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大模大样",
+		"pronunciation" : "dà mó dà yàng",
+		"interpretation" : "形容态度傲慢，目中无人的样子。",
+		"source" : "明·王世桢《鸣凤记》第二十三出：“又见他烈烈轰轰，呼呼喝喝，大模大样，前遮后拥，把那街上闲人尽打开。”",
+		"example" : "安禄山，我且问你，这般大模大样是几时起的？（清·洪昇《长生殿》第十三出）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大步流星",
+		"pronunciation" : "dǎ bù liú xīng",
+		"interpretation" : "形容步子跨得大，走得快。",
+		"source" : "",
+		"example" : "听到叫他名，他大步流星地迈过去，把它牵上。（周立波《暴风骤雨》第二部二四）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大气磅礴",
+		"pronunciation" : "dà qì páng bó",
+		"interpretation" : "形容气势浩大。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大江东去",
+		"pronunciation" : "dà jiāng dōng qù",
+		"interpretation" : "长江的水往东奔流而去。后借用为词牌名。多表示陈迹消逝，历史向前发展。",
+		"source" : "宋·苏轼《赤壁怀古》：“大江东去，浪淘尽，千古风流人物。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大江南北",
+		"pronunciation" : "dà jiāng nán běi",
+		"interpretation" : "指靠临长江中下游两岸的广大地区。",
+		"source" : "",
+		"example" : "而大江南北，以文名天下者，几于昌（猖）狂无理，排溺一世之人，其势力至今未已。（清·恽敬《上曹俪笙侍郎书》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大法小廉",
+		"pronunciation" : "dà fǎ xiǎo lián",
+		"interpretation" : "旧时指大臣尽忠，小臣尽职。",
+		"source" : "《礼记·礼运》：“大臣法，小臣廉，官职相序，君臣相正，国之肥也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大浪淘沙",
+		"pronunciation" : "dà làng táo shā",
+		"interpretation" : "淘：用水冲洗。去掉杂质。在大浪中洗净沙石。比喻在激烈的斗争中经受考验、筛选。",
+		"source" : "",
+		"example" : "这支队伍经过严峻的锻炼和考验，质量更高了，是大浪淘沙保留下来的精华。（粟裕《激流归大海》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大海捞针",
+		"pronunciation" : "dà hǎi lāo zhēn",
+		"interpretation" : "在大海里捞一根针。比喻极难找到。",
+		"source" : "元·柯丹丘《荆钗记·误讣》：“儿，此生休想同衾枕，要相逢除非东海捞针。”",
+		"example" : "要打听前任巡检太爷家眷的下落，那真是大海捞针一般，问了半天，没有人知道的。（清·吴趼人《二十年目睹之怪现状》第一百七回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大澈大悟",
+		"pronunciation" : "dà chè dà wù",
+		"interpretation" : "彻：明白；悟：领会。形容彻底醒悟。",
+		"source" : "清·刘鹗《老残游记续编》第四回：“到这时候，我仿佛大澈大悟了不是？”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大煞风景",
+		"pronunciation" : "dà shā fēng jǐng",
+		"interpretation" : "损伤美好的景致。比喻败坏兴致。",
+		"source" : "唐·李商隐《杂纂》把“花间喝道”、“月下把火”等列为“杀风景”的事情。",
+		"example" : "漂亮的公园里，鸟语花香，路边却堆着一堆垃圾，真是大煞风景。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大相径庭",
+		"pronunciation" : "dà xiāng jìng tíng",
+		"interpretation" : "径：小路；庭：院子；径庭：悬殊，偏激。比喻相差很远，大不相同。",
+		"source" : "《庄子·逍遥游》：“吾惊怖其言，犹河汉而无极也。大有径庭，不近人情焉？”",
+		"example" : "虽然结果一样，其“因”却大相径庭。（鲁迅《集外集拾遗·田园思想》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大相迳庭",
+		"pronunciation" : "dà xiāng jìng tíng",
+		"interpretation" : "指彼此相差极远或矛盾很大。",
+		"source" : "清·厉鹗《<江西诗社宗派图录>跋》：“嗟呼！几何不与吕公论世尚友之旨大相迳庭也哉！”",
+		"example" : "然与鄙见复有大相迳庭者，其治小学重形体而轻声类。★章炳麟《与人论朴学报书》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大禹治水",
+		"pronunciation" : "dà yǔ zhì shuǐ",
+		"interpretation" : "禹：三皇五帝时中原的领袖。大禹治理水患为百姓谋福。",
+		"source" : "无",
+		"example" : "你知道大禹治水的故事吗？",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大笔如椽",
+		"pronunciation" : "dà　bǐ rú chuán",
+		"interpretation" : "椽：放在檩子上架着屋顶的木条。象椽子那样大的笔。形容著名的文章。也指有名的作家。",
+		"source" : "《晋书·王珣传》：“珣梦人以大笔如椽与之，既觉，语人曰：‘此当有大手笔事。’” 大笔如椽的故事",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大而化之",
+		"pronunciation" : "dà ér huà zhī",
+		"interpretation" : "化：改变，转变。原指大行其道，使天下化之。后形容做事情不小心谨慎。",
+		"source" : "《孟子·尽心下》：“大而化之之谓圣。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大而无当",
+		"pronunciation" : "dà ér wú dàng",
+		"interpretation" : "当：底。虽然大，却无底。原指大得无边际。后多用作表示大得不切合实际、不合用。",
+		"source" : "《庄子·逍遥游》：“肩吾问于连叔曰：‘吾闻言于接舆，大而无当，往而不返，吾惊怖其言，犹河汉而无极也。’”",
+		"example" : "订计划要切合实际，不要大而无当。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大肆厥辞",
+		"pronunciation" : "dà sì jué cí",
+		"interpretation" : "大肆：毫无顾忌。厥：其，他的。铺张辞藻，大展文才。",
+		"source" : "明·刘基《〈宋景濂学士文集〉序》：“先生不分至高，极天下之书无不尽读，以其所蕴，大肆厥辞。其气韵沉雄如淮阴出师，百战百胜，志不少慑。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大胆包身",
+		"pronunciation" : "dà dǎn bāo shēn",
+		"interpretation" : "指胆量极大。",
+		"source" : "元·无名氏《隔江斗智》第四折：“关云长雄略盖世，赵子龙大胆包身。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大腹便便",
+		"pronunciation" : "dà fù pián pián",
+		"interpretation" : "便便：肥胖的样子。形容肥胖的样子。",
+		"source" : "《后汉书·边韶传》：“边孝先，腹便便。”",
+		"example" : "动物园里大腹便便的企鹅非常有趣。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大节不夺",
+		"pronunciation" : "dà jié bù duó",
+		"interpretation" : "大节：临难不苟的节操；夺：丧失。指面临生死关头，仍不改变其原来志向。",
+		"source" : "《论语·泰伯》：“临大节而不可夺也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大莫与京",
+		"pronunciation" : "dà mò yǔ jīng",
+		"interpretation" : "莫：没有谁；京：大。指大得无法相比。",
+		"source" : "《左传·庄公二十二年》：“八世之后，莫之与京。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大获全胜",
+		"pronunciation" : "dà huò quán shèng",
+		"interpretation" : "获：擒获俘虏，夺取敌方辎重；全：完全。形容获得完全的胜利。",
+		"source" : "明·冯梦龙《古今小说·葛令公生遣弄珠儿》：“唐兵被梁家杀得七零八落，走得快的，逃了性命，略迟慢些，就成沙场之鬼……梁家大获全胜。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大行大市",
+		"pronunciation" : "dà háng dà shì",
+		"interpretation" : "指商品的一般市场价格。",
+		"source" : "",
+		"example" : "贵啥子？大行大市的。（周克芹《许茂和他的女儿们》第五章）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大街小巷",
+		"pronunciation" : "dà jiē xiǎo xiàng",
+		"interpretation" : "城镇里的街道里弄，概指都市里的各处地方。",
+		"source" : "明·施耐庵《水浒全传》第六十六回：“正月十五日，上元佳节，好生晴朗，黄昏月上，六街三市，各处坊隅巷陌，点花放灯，大街小巷，都有社火。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大言不惭",
+		"pronunciation" : "dà yán bù cán",
+		"interpretation" : "说大话，不感到难为情。",
+		"source" : "《论语·宪问》：“子曰：‘其言之不怍，则为之也难。’”宋·朱熹注：“大言不惭，则无必为之志，而不自度其能否也。欲践其言，其不难哉！”",
+		"example" : "严知孝听他这个得意的学生大言不惭的说着，脸上的愁闷就散开了。（梁斌《红旗谱》四二）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大计小用",
+		"pronunciation" : "dà jì xiǎo yòng",
+		"interpretation" : "用于大事的计策，结果只用在小事情上。表示计策没有充分发挥作用。",
+		"source" : "明·罗贯中《三国演义》第九十七回：“孔明连夜驱兵，真出祁山前下寨，收住军兵，重赏姜维。维曰：‘某恨不得杀曹真也！’孔明亦曰：‘可惜大计小用矣。’”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大请大受",
+		"pronunciation" : "dà qǐng dà shòu",
+		"interpretation" : "指优厚的待遇。",
+		"source" : "《水浒传》第七回：“他现在帐下听使唤，大请大受，怎敢恶了太尉？”",
+		"example" : "我又不是杨老佛、杨奶奶，你有本事到他那里，享用他大请大受，缠我怎的？★《平妖传》第七回",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大谋不谋",
+		"pronunciation" : "dà móu bù móu",
+		"interpretation" : "具有远大谋略的人，表面上好像看不出谋略。",
+		"source" : "《六韬·武韬·发启》：“大谋不谋，大勇不勇。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大谬不然",
+		"pronunciation" : "dà miù bù rán",
+		"interpretation" : "谬：荒谬，错误；然：如此，这样。大错特错，完全不是这样。",
+		"source" : "汉·司马迁《报任少卿书》：“而事乃有大谬不然者夫。”",
+		"example" : "从表面看，似乎既称红军，就可以不要党代表了，实在大谬不然。（《毛泽东选集·井岗山的斗争》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大贤虎变",
+		"pronunciation" : "dà xián hǔ biàn",
+		"interpretation" : "虎变：如虎身花纹的变化。比喻居上位者出处行动变化莫测。",
+		"source" : "《周易·革》：“大人虎变，未占有孚。”",
+		"example" : "大贤虎变愚不测，当年颇似寻常人。（唐·李白《梁父吟》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大败亏轮",
+		"pronunciation" : "dà bài kuī lún",
+		"interpretation" : "遭到很大的失败和损失。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大败亏输",
+		"pronunciation" : "dà bài kuī shū",
+		"interpretation" : "打了败仗，损失很大。",
+		"source" : "明·施耐庵《水浒全传》第九十九回：“北军大败亏输，五千军马杀死大半，其余四散逃窜。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大路椎轮",
+		"pronunciation" : "dà lù zhuī lún",
+		"interpretation" : "大辂，古代华美的大车。椎轮，无辐条的原始车轮。指大辂由椎轮逐步演变而成，比喻事物的进化，由简到繁，由粗至精。后人亦称始创者为大辂椎轮。",
+		"source" : "南朝·梁·萧统《〈文选〉序》：“若夫椎轮为大辂之始，大辂宁有椎轮之质。”",
+		"example" : "及国朝徐继畲、魏源氏译述《瀛环志略》、《海国图志》，乃始罗略东西洋欧美诸国，虽有疏阙，然大路椎轮之功，不可泯也。★清·沈惟贤《〈万国演义〉序》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大车以载",
+		"pronunciation" : "dà chē yǐ zài",
+		"interpretation" : "大车材坚，能载重物。比喻人有大材，能够胜重任。",
+		"source" : "《易经·大有》：“大车以载，有攸往无咎。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大辂椎轮",
+		"pronunciation" : "dà lù zhuī lún",
+		"interpretation" : "大辂：古代大车；椎轮：无辐原始车轮。华美的大车是从无辐车轮的原始车开始的。比喻事物的进化，是从简到繁，从粗到精。",
+		"source" : "南朝·梁·萧统《文选序》：“若夫椎轮为大辂之始，大辂宁有椎轮之质？”",
+		"example" : "然大辂椎轮之功，不可泯也。（清·沈惟贤《万国演义序》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大辩不言",
+		"pronunciation" : "dà biàn bù yán",
+		"interpretation" : "大辩：善于辩论。有口才、善于辩论的人，并不多说话以显示自己。",
+		"source" : "《庄子·齐物论》：“大辩不言，大仁不仁。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大辩若讷",
+		"pronunciation" : "dà biàn ruò nè",
+		"interpretation" : "讷：语言迟钝，不善于讲话。真正有口才的人表面上好像嘴很笨。表示善辩的人发言持重，不露锋芒。",
+		"source" : "《老子》第四十五章：“大真若屈，大巧若拙，大辩若讷。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大逆不道",
+		"pronunciation" : "dà nì bù dào",
+		"interpretation" : "逆：叛逆；道：指封建道德；不道：违反封建道德。旧时统治阶级对破坏封建秩序的人所加的重大罪名。",
+		"source" : "《史记·高祖本纪》：“天下所不容，大逆无道。”《汉书·杨恽传》：“为妖恶言，大逆不道，请逮捕治。” 大逆不道的故事",
+		"example" : "汝赖吾玉玺，僭称帝号，背反汉室，大逆不道！吾方欲加兵问罪，岂肯反助贼乎！（明·罗贯中《三国演义》第十七回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大醇小疵",
+		"pronunciation" : "dà chún xiǎo cī",
+		"interpretation" : "醇：纯正；疵：毛病。大体纯正，而略有缺点。",
+		"source" : "唐·韩愈《读〈荀子〉》：“荀与扬，大醇而小疵。”",
+		"example" : "知其有醇乎醇者，有大醇而小疵者也。（清·陈澧《与周孟贻书》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大错特错",
+		"pronunciation" : "dà cuò tè cuò",
+		"interpretation" : "完全错了。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大难不死",
+		"pronunciation" : "dà nàn bù sǐ",
+		"interpretation" : "难：灾祸。遇到巨大的灾难而没有死掉。形容幸运地脱险。",
+		"source" : "元·关汉卿《裴度还带》第三折：“夫人云：皆是先生阴德太重，救我一家之命。因此遇大难不死，必有后程，准定发迹也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大难临头",
+		"pronunciation" : "dà nàn lín tóu",
+		"interpretation" : "难：灾祸；临：来到。大祸落到头上。",
+		"source" : "",
+		"example" : "他仿佛已经有什么大难临头似的，说话有些口吃了，声音也发着抖。（鲁迅《彷徨·弟兄》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大音希声",
+		"pronunciation" : "dà yīn xī shēng",
+		"interpretation" : "指最大最美的声音乃无声之音。",
+		"source" : "《老子》：“大音希声，大象无形。”王弼注：“听之不闻名曰希，不可得闻之音也。有声则有分，有分则不宫而商矣。分则不能统众，故有声者非大音也。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大题小作",
+		"pronunciation" : "dà tí xiǎo zuò",
+		"interpretation" : "将磊韪写成小文章。比喻把重大问题当作小事情来处理。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "大风大浪",
+		"pronunciation" : "dà fēng dà làng",
+		"interpretation" : "指巨大的风浪。比喻社会的大动荡、大变化。也比喻尖锐、复杂、激烈、艰苦的斗争。",
+		"source" : "",
+		"example" : "然而她到底是经过无数大风大浪的，深知躲避不了的烦恼，只有昂起头来硬顶。（高阳《母子君臣》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "夺人所好",
+		"pronunciation" : "duó rén suǒ hào",
+		"interpretation" : "强夺别人所喜欢的人或物。",
+		"source" : "元·王实甫《西厢记》第一本第四折：“恁须不夺人所好。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "夺其谈经",
+		"pronunciation" : "duó qí tán jīng",
+		"interpretation" : "比喻在辩论中压倒众人。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "夺胎换骨",
+		"pronunciation" : "duó tāi huàn gǔ",
+		"interpretation" : "本为道家语，指夺人之胎以转生，易去凡骨为仙骨。后比喻学习前人不露痕迹，并能创新。",
+		"source" : "宋·释惠洪《冷斋夜话》卷一：“然不易其意而造其语，谓之换骨法；窥入其意而形容之，谓之夺胎法。”",
+		"example" : "安知夺胎换骨无金丹，不使此莲此菊此桃万亿化身合为一。（清·黄遵宪《以莲菊桃杂供一瓶作歌》诗）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "妒能害贤",
+		"pronunciation" : "dù néng hài xián",
+		"interpretation" : "贤、能：有德有才的人；害：陷害。嫉妒有才能的人，陷害贤明的人。指容不下才能、品德比自己高的人。",
+		"source" : "《史记·高祖本纪》：“项羽妒贤嫉能，有功者害之，贤者疑之。”《史记·范雎蔡泽列传》：“妒贤嫉能，御下蔽之。”",
+		"example" : "您听者，李存信妒能害贤，飞虎将负屈啣冤。（元·关汉卿《哭存孝》第四折）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "妒贤嫉能",
+		"pronunciation" : "dù xián jí néng",
+		"interpretation" : "妒、嫉：因别人好而忌恨。对品德、才能比自己强的人心怀怨恨。",
+		"source" : "《史记·高祖本纪》：“项羽妒贤嫉能，有功者害之，贤者疑之。”《史记·范雎蔡泽列传》：“妒贤嫉能，御下蔽之。”",
+		"example" : "此人只怀妒贤嫉能之心，但恐众豪杰势力相压。（明·施耐庵《水浒全传》第十九回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "定倾扶危",
+		"pronunciation" : "dìng qīng fú wēi",
+		"interpretation" : "倾：危。扶助危倾，使其安定。指挽救国家于危难之时。",
+		"source" : "汉·恒宽《盐铁论·备胡》：“古者明王讨暴卫弱，定倾扶危，使小国之君悦；讨暴定倾，则无罪之人附。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "定国安邦",
+		"pronunciation" : "dìng guó ān bāng",
+		"interpretation" : "邦：国家。治理和保卫国家，使国家安定稳固。",
+		"source" : "元·无名氏《连环计》第三折：“枉了你扬威耀武，尽忠歆节，定国安邦，偏容他鸱鸮弄舌，乌鸦展翅，强配鸾凤。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "对床夜雨",
+		"pronunciation" : "duì chuáng yè yǔ",
+		"interpretation" : "指亲友或兄弟久别重逢，在一起亲切交谈。",
+		"source" : "唐·白居易《雨中招张司业宿》诗：“能来同宿否，听雨对床眠。”",
+		"example" : "中和堂后石楠树，与君对床听夜雨。（宋·苏轼《送刘寺丞赴余姚》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "对景挂画",
+		"pronunciation" : "duì jǐng guà huà",
+		"interpretation" : "比喻本身的举动恰恰和客观情形相应。",
+		"source" : "",
+		"example" : "他们诸位姐姐过谦，都不肯猜，我却打着了，是“集贤宾”，这才叫对景挂画哩。（清·李汝珍《镜花缘》第八十一回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "对牛弹琴",
+		"pronunciation" : "duì niú tán qín",
+		"interpretation" : "讥笑听话的人不懂对方说得是什么。用以讥笑说话的人不看对象。",
+		"source" : "汉·牟融《理惑论》：“公明仪为牛弹清角之操，伏食如枚。非牛不闻，不合其耳矣。” 对牛弹琴的故事",
+		"example" : "对牛弹琴，牛不入耳，骂得很好，咱们一总再算账！（清·李当珍《镜花缘》第九十回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "对症下药",
+		"pronunciation" : "duì zhèng xià yào",
+		"interpretation" : "针对病症用药。比喻针对事物的问题所在，采取有效的措施。",
+		"source" : "《三国志·魏志·华陀传》：“府吏倪寻、李延共止，俱头痛身热，所苦正同。佗曰：‘寻当下之，延当发汗。’或难其异，佗曰：‘寻外实，延内实，故治之宜殊。’即各与药，明旦并起。” 对症下药的故事",
+		"example" : "他也许要借这原始的集体的力给后代的散漫和萎靡来个对症下药吧。（朱自清《闻一多先生怎样走着中国文学的道路》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "对症之药",
+		"pronunciation" : "duì zhèng zhī yào",
+		"interpretation" : "针对病根下的药。比喻纠正缺点错误所用的相应办法。",
+		"source" : "《三国志·魏志·华陀传》：“府吏倪寻、李延共止，俱头痛身热，所苦正同。佗曰：‘寻当下之，延当发汗。’或难其异，佗曰：‘寻外实，延内实，故治之宜殊。’即各与药，明旦并起。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "对答如流",
+		"pronunciation" : "duì dá rú liú",
+		"interpretation" : "对答：回答。回答问话象流水一样快。形容口才好，反应快。",
+		"source" : "《北史·李孝伯传》：“风容闲雅，应答如流。”",
+		"example" : "众人见孔明对答如流，尽皆失色。（明·罗贯中《三国演义》第四十三回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "对簿公堂",
+		"pronunciation" : "duì bù gōng táng",
+		"interpretation" : "簿：文状、起诉书之类；对簿：受审问；公堂：旧指官吏审理案件的地方。在法庭上受审问。",
+		"source" : "《史记·李将军列传》：“大将军使长史急责广之幕府对簿。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "对薄公堂",
+		"pronunciation" : "duì bù gōng táng",
+		"interpretation" : "在法庭上受审问。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "对酒当歌",
+		"pronunciation" : "duì jiǔ dāng gē",
+		"interpretation" : "对着酒应该放声高唱。原意是人生时间有限，应该有所作为。后也用来指及时行乐。",
+		"source" : "汉·曹操《短歌行》：“对酒当歌，人生几何？”",
+		"example" : "尽都是把手为话，对酒当歌，郑州浪汉委实多。（元·杨显之《酷寒亭》第三折）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "帝王将相",
+		"pronunciation" : "dì wáng jiòn xiàng",
+		"interpretation" : "皇帝、王侯、及文臣武将。指封建时代上层统治者。",
+		"source" : "《史记·陈涉世家》：“且壮士不死即日已，死即举大名耳，王侯将相宁有种乎！”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "带牛佩犊",
+		"pronunciation" : "dài niú pèi dú",
+		"interpretation" : "原指汉宣帝时渤海太守龚遂诱使持刀剑起义的农民放弃武装斗争而从事耕种。后比喻改业归农。",
+		"source" : "《汉书·龚遂传》：“民有带持刀剑者，使卖剑买牛，卖刀买犊，曰：‘何为带牛佩犊。’”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "带着铃铛去做贼",
+		"pronunciation" : "dài zhe líng dāng qù zuò zéi",
+		"interpretation" : "比喻要干隐秘的事而自己先声张出去。",
+		"source" : "",
+		"example" : "既是一点儿把握都没有，却天天在那里叫嚣狂掷，岂不是俗语说的“带着铃铛去做贼”吗？（《晚清文学丛钞·新中国未来记》第五回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "带砺山河",
+		"pronunciation" : "dài lì shān hé",
+		"interpretation" : "带：衣带；砺：磨刀石；山：泰山；河：黄河。黄河细得象条衣带，泰山小得象块磨刀石。比喻时间久远，任何动荡也决不变心。",
+		"source" : "《史记·高祖功臣侯者年表》：“封爵之誓曰：‘使河如带，泰山若砺，国以永宁，爱及苗裔。’”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "带砺河山",
+		"pronunciation" : "dài lì hé shān",
+		"interpretation" : "带：衣带。砺：磨刀石。河：黄河。山：泰山。黄河如衣带，泰山像磨刀石。这是永远不可能发生的事情。旧时表示所封爵位传之久远。含有江山永固之义。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "带金佩紫",
+		"pronunciation" : "dài jīn pèi zǐ",
+		"interpretation" : "金：金印。紫：紫绶。带着金印，佩着紫绶。形容地位非常显赫。",
+		"source" : "南朝·宋·刘义庆《世说新语·言语》：“吾闻丈夫处世，当带金佩紫。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "度日如年",
+		"pronunciation" : "dù rì rú nián",
+		"interpretation" : "过一天象过一年那样长。形容日子很不好过。",
+		"source" : "宋·柳永《戚氏》：“孤馆度日如年。”",
+		"example" : "感承众头领好意相留，只是小可度日如年，今日告辞。（明·施耐庵《水浒全传》第六十二回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "弹丸黑子",
+		"pronunciation" : "dàn wán hēi zǐ",
+		"interpretation" : "比喻极小。亦作“弹丸黑志”。",
+		"source" : "语出北周·庾信《哀江南赋》：“地惟黑子，城犹弹丸。”",
+		"example" : "名都大邑，所向皆破，而吾桐独完，桐小县，仅弹丸黑子。★清·戴名世《<孑遗录>自序》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "当务之急",
+		"pronunciation" : "dāng wù zhī jí",
+		"interpretation" : "当务：指应当办理的事。当前任务中最急切要办的事。",
+		"source" : "《孟子·尽心上》：“知者无不知也，当务之为急；仁者无不爱也，急亲贤之为务。” 当务之急的故事",
+		"example" : "今学者当务之急，曰中国古今史，曰泰东西古近史。（清·沈惟贤《万国演义序》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "当断不断",
+		"pronunciation" : "dāng duàn bù duàn",
+		"interpretation" : "指应该决断的时候不能决断。",
+		"source" : "《史记·齐悼惠王世空》：“当断不断，反受其乱。”",
+		"example" : "段失之太刚，黎又失之太柔，当断不断，反受其乱。（蔡东藩、许廑父《民国通俗演义》第八十一回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "当机立断",
+		"pronunciation" : "dāng jī lì duàn",
+		"interpretation" : "当机：抓住时机。在紧要时刻立即做出决断。",
+		"source" : "汉·陈琳《答东阿王笺》：“秉青萍干将之器，拂钟无声，应机立断。”",
+		"example" : "哥哥，国姓爷就在城下，你应该当机立断。（郭沫若《郑成功》第七章）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "当着不着",
+		"pronunciation" : "dāng zhuó bù zhuó",
+		"interpretation" : "指应该做的事不做，而不该做的事却做了。",
+		"source" : "明·汤显祖《牡丹亭·围释》：“老大王，你可也当着不着的。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "待人接物",
+		"pronunciation" : "dài rén jiē wù",
+		"interpretation" : "物：人物，人们。指跟别人往来接触。",
+		"source" : "汉·司马迁《报任少卿书》：“教以慎于接物，推贤士为务。”明·陶宗仪《辍耕录》卷五：“右二事可见前辈诸老谦恭退抑，汲引后进，待人接物者如此。”",
+		"example" : "他对事能从各方面看，能有充分的谅解精神，因此他的待人接物都有很合理的态度。（邹韬奋《患难余生记·流亡》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "待价而沽",
+		"pronunciation" : "dài jià ér gū",
+		"interpretation" : "沽：卖。等有好价钱才卖。比喻谁给好的待遇就替谁工作。",
+		"source" : "《论语·子罕》：“沽之哉！沽之哉！，我待贾者也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "待字闺中",
+		"pronunciation" : "dài zì guī zhōng",
+		"interpretation" : "字：许配；闺：女子卧室。留在闺房之中，等待许嫁。旧指女子成年待聘。",
+		"source" : "《礼记·曲礼上》：“女子待嫁，笄而字。”",
+		"example" : "养成一个如珠似玉的女儿，不特好才貌，还缠得一双小足儿，现年十七岁，待字深闺。（清·黄小配《廿载繁华梦》第二回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "待时守分",
+		"pronunciation" : "dài shí shǒu fèn",
+		"interpretation" : "待：等待；时：时机；分：本分。为了等待好的时机而暂时安分守己。",
+		"source" : "元·关汉卿《裴度还带》第一折：“想咱人不得志呵，当以待时守分，何日是我那发迹的时节也呵！”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "待时而动",
+		"pronunciation" : "dài shí ér dòng",
+		"interpretation" : "等待时机然后行动。",
+		"source" : "《周易·系辞下》：“君子藏器于身，待时而动。”",
+		"example" : "昭王深自韬晦，养兵恤民，待时而动。（明·冯梦龙《东周列国志》第九十五回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "待理不理",
+		"pronunciation" : "dài lǐ bù lǐ",
+		"interpretation" : "要理不理。形容对人态度冷淡。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得不偿失",
+		"pronunciation" : "dé bù cháng shī",
+		"interpretation" : "偿：抵得上。所得的利益抵偿不了所受的损失。",
+		"source" : "宋·苏轼《和子由除日见寄》诗：“感时嗟事变，所得不偿失。”",
+		"example" : "饶鸿生在精养轩虽化了几十块冤枉钱，在后乐园倒明白了一桩古典，不能说得不偿失了。（清·李宝嘉《文明小史》第五十三回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得天独厚",
+		"pronunciation" : "dé tiān dú hòu",
+		"interpretation" : "天：天然，自然；厚：优厚。具备的条件特别优越，所处环境特别好。",
+		"source" : "",
+		"example" : "他有一副好嗓子，学唱歌是得天独厚。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得心应手",
+		"pronunciation" : "dé xīn yìng shǒu",
+		"interpretation" : "得：得到，想到；应：反应，配合。心里怎么想，手就能怎么做。比喻技艺纯熟或做事情非常顺利。",
+		"source" : "《庄子·天道》：“不徐不疾，得之于手而应于心。”",
+		"example" : "挟了七八万现款的冯云卿就此走进了公债市场，半年来总算得心应手，扯起息来，二分半是有的。（茅盾《子夜》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得意忘形",
+		"pronunciation" : "dé yì wàng xíng",
+		"interpretation" : "形：形态。形容高兴得失去了常态。",
+		"source" : "《晋书·阮籍传》：“嗜酒能啸，善弹琴。当其得意，忽忘形骸。”",
+		"example" : "他把科长看成有天那么大，把他和科长连在一块，他没法不得意忘形。（老舍《四世同堂》三十二）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得意忘象",
+		"pronunciation" : "dé yì wàng xiàng",
+		"interpretation" : "指只取其精神而无视其形式。",
+		"source" : "唐·梁肃《止观统例议》：“非夫聪明深达，得意忘象，其孰能知乎？”",
+		"example" : "昔人深于画者得意忘象，其形模位置有不可以常法观者……。★宋·黄伯思《东观馀论·跋滕子济所藏唐人出游图》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得意扬扬",
+		"pronunciation" : "dé yì yáng yáng",
+		"interpretation" : "形容非常得意的样子。",
+		"source" : "西汉·司马迁《史记·管晏列传》：“意气扬扬，甚自得也。”",
+		"example" : "刚才我看见他和胡宗预从教务室出来，得意扬扬，公然的扬言道，某某人是去定的了。★郑振铎《漩涡》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得过且过",
+		"pronunciation" : "dé guò qiě guò",
+		"interpretation" : "且：暂且。只要能够过得去，就这样过下去。形容胸无大志。",
+		"source" : "元·无名氏《小孙屠》第四出：“孩儿，我听得道你要出外打旋，怕家中得过且过，出去做甚的？” 得过且过的故事",
+		"example" : "但是吃烟人的脾气，总是得过且过，那一个是真心肯戒。（清·彭养鸥《黑籍冤魂》第一回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得道多助",
+		"pronunciation" : "dé dào duō zhù",
+		"interpretation" : "指符合道义者则能得到多数人的帮助。",
+		"source" : "先秦·孟轲《孟子·公孙丑下》：“得道者多助，失道者寡助。寡助之至，亲戚畔之。”",
+		"example" : "我则得道多助，彼则众叛亲离。★孙中山《军人精神教育》第二章",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得道多助，失道寡助",
+		"pronunciation" : "dé dào duō zhù，shī dào guǎ zhù",
+		"interpretation" : "道：道义；寡：少。站在正义方面，会得到多数人的支持帮助；违背正义，必陷于孤立。",
+		"source" : "《孟子·公孙丑下》：“得道者多助，失道者寡助。寡助之至，亲戚畔之；多助之至，天下顺之。”",
+		"example" : "彼以武力为后盾，我以公理为前驱，得道多助，失道寡助。（蔡东藩、许廑父《民国通俗演义》第一百三十一回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得陇望蜀",
+		"pronunciation" : "dé lǒng wàng shǔ",
+		"interpretation" : "陇：指甘肃一带；蜀：指四川一带。已经取得陇右，还想攻取西蜀。比喻贪得无厌。",
+		"source" : "《后汉书·岑彭传》：“人苦不知足，既平陇，复望蜀，每一发兵，头鬓为白。”",
+		"example" : "我很希望兄有空，再画几幅，虽然太有些得陇望蜀。（《鲁迅书信集·致陶元庆》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得饶人处且饶人",
+		"pronunciation" : "dé ráo rén chù qiě ráo rén",
+		"interpretation" : "指做事不要做绝，须留有余地。",
+		"source" : "《唾玉集·常谈出处》：“蔡州褒信县有道人式棋，常饶人先，其诗曰：‘自出洞来无敌手，得饶人处且饶人。’”",
+		"example" : "得饶人处且饶人，得将就的就省些事吧。（清·曹雪芹《红楼梦》第五十九回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得马生灾",
+		"pronunciation" : "dé mǎ shēng zāi",
+		"interpretation" : "指因福而得祸。",
+		"source" : "《淮南子·人间训》：“近塞上之人，有善术者，马无故亡而入胡……居数月，其马将胡骏马而归，人皆贺之。其父曰：‘此何遽不能为祸乎？’家富良马，其子好骑，堕而折其髀。”",
+		"example" : "维鹈受刺因吾过，得马生灾念尔冤。★唐·元稹《哭子》诗之一",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "得鱼忘筌",
+		"pronunciation" : "dé yú wàng quán",
+		"interpretation" : "筌：捕鱼用的竹器。捕到了鱼，忘掉了筌。比喻事情成功以后就忘了本来依靠的东西。",
+		"source" : "《庄子·外物》：“荃者所以在鱼，得鱼而忘筌。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "德厚流光",
+		"pronunciation" : "dé hòu liú guāng",
+		"interpretation" : "德：道德，德行；厚：重；流：影响；光：通“广”。指道德高，影响便深远。",
+		"source" : "《谷梁传·僖公十五年》：“天子七庙，诸侯五，大夫三，士二，故德厚者流光，德薄者流卑。”",
+		"example" : "今国家德厚流光，创立九庙。（唐·韩愈《褅袷议》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "德才兼备",
+		"pronunciation" : "dé cái jiān bèi",
+		"interpretation" : "德：品德；才：才能；备：具备。既有好的思想品质，又有工作的才干和能力。",
+		"source" : "元·无名氏《娶小乔》第一折：“江东有一故友，乃鲁子敬，此人才德兼备。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "德艺双馨",
+		"pronunciation" : "dé yì shuāng xīn",
+		"interpretation" : "形容一个人的德行和艺术（技艺）都具有良好的声誉。一般指从事艺术的人。",
+		"source" : "",
+		"example" : "梅兰芳先生不愧是一个德艺双馨的艺术家。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "德薄才疏",
+		"pronunciation" : "dé bó cái shū",
+		"interpretation" : "薄：浅；疏：空虚。品行和才能都很差。常作谦辞。",
+		"source" : "明·施耐庵《水浒全传》第六十八回：“小弟德疏才薄，怎敢承当此位！若得居末，尚自过分。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "德言容功",
+		"pronunciation" : "dé yán róng gōng",
+		"interpretation" : "德：妇德，品德。言：言辞。容：容貌。功：女红（旧指女子所做的针线活）。封建礼教要求妇女应具备的品德。",
+		"source" : "《礼记·昏义》：“是以古者妇人先嫁三日……教以妇德、妇言、妇容、妇功。”",
+		"example" : "后十四，雅善歌辞，兼通音律，德言容功，四者咸备。（明·李昌祺《剪灯余话·琼奴传》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "德高望重",
+		"pronunciation" : "dé gāo wàng zhòng",
+		"interpretation" : "德：品德；望：声望。道德高尚，名望很大。",
+		"source" : "《晋书·简文三子传》：“元显因讽礼官下仪，称已德隆望重，既录百揆，内外群僚皆应尽敬。”",
+		"example" : "龚师傅德高望重，既有主张，自然力量不小。（《续孽海花》第四十回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "怛然失色",
+		"pronunciation" : "dá rán shī sè",
+		"interpretation" : "怛：畏惧，恐惧。指因害怕而变脸色。",
+		"source" : "宋·苏洵《送石昌言舍人北使行》：“闻介马万骑驰过，剑槊相摩，终夜有声，人者怛然失色。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "怠惰因循",
+		"pronunciation" : "dài duò yīn xún",
+		"interpretation" : "怠惰：懈怠、懒惰。因循：拖延。形容懒散拖沓。",
+		"source" : "唐·韩愈《答殷侍御书》：“愿尽其学，职事羁缠，未得继清，怠惰因循，不能自疆（强）。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "悼心失图",
+		"pronunciation" : "dào xīn shī tú",
+		"interpretation" : "悼：悲伤；图：谋划。因悲痛而失去了主张。",
+		"source" : "《左传·昭公七年》：“嘉惠未至，唯襄公之辱临我丧，孤与其二三臣悼心失图。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "戴圆履方",
+		"pronunciation" : "dài yuán lǚ fāng",
+		"interpretation" : "履：踩着；圆、方：古人以为天圆地方。头顶着天，脚踩着地。指生活在人间。",
+		"source" : "《淮南子·本经训》：“戴圆履方，抱表怀绳。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "戴天履地",
+		"pronunciation" : "dài tiān lǚ dì",
+		"interpretation" : "戴：顶着天；履：踏，踩着。头顶着天，脚踩着地。形容人活在天地之间。比喻恩德深广，如天高地厚。",
+		"source" : "《左传·僖公十五年》“晋大夫三拜稽首曰：‘君履后土而戴皇天，皇天后土，实为君之言。群臣敢在下风。’”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "戴头识脸",
+		"pronunciation" : "dài tóu shí liǎn",
+		"interpretation" : "比喻有面子有身分。",
+		"source" : "",
+		"example" : "你这客人好不君子相，戴头识脸的，也这般罗唣！（明·施耐庵《水浒全传》第十六回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "戴月披星",
+		"pronunciation" : "dài yuè pī xīng",
+		"interpretation" : "身披星星，头顶月亮。形容早出晚归，辛勤劳动，或日夜赶路，旅途辛苦。",
+		"source" : "元·无名氏《冤家债主》第一的：“这大的孩儿披星戴月，早起晚眠。”",
+		"example" : "真是个迎风冒雪，戴月披星。（明·吴承恩《西游记》第四十四回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "戴盆望天",
+		"pronunciation" : "dài pén wàng tiān",
+		"interpretation" : "头上顶着盆子看天。比喻行为和目的相反，愿望不可能达到。",
+		"source" : "汉·司马迁《报任少卿书》：“仆以为戴盆何以望天，故绝宾客之知，亡家室之业，日夜思竭其不肖之才力，务一心营职，以求亲媚于主上。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "戴笠乘车",
+		"pronunciation" : "dài lì　chéng chē",
+		"interpretation" : "比喻不因为富贵而改变贫贱之交。",
+		"source" : "晋·周处《风土记》：“卿虽乘车我戴笠，后日相逢下车揖；我步行，君乘马，他日相逢君当下。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "戴罪立功",
+		"pronunciation" : "dài zuì lì gōng",
+		"interpretation" : "带着罪过或错误去创立功勋，以功赎罪。",
+		"source" : "明·王守仁《案行漳南道守巡官戴罪督兵剿贼》：“其覃恒等所统军，就仰高伟管领，戴罪杀贼立功自赎。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打入冷宫",
+		"pronunciation" : "dǎ rù lěng gōng",
+		"interpretation" : "打：与某些动词结合成为一个词，表示进行的意思；冷宫：古代皇帝把失宠的后妃软禁于冷僻宫内。比喻人不被重视或把事情搁置一边。",
+		"source" : "无",
+		"example" : "她已经被打入冷宫。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打凤捞龙",
+		"pronunciation" : "dǎ fèng lāo lóng",
+		"interpretation" : "凤、龙：这里指人才。比喻搜索、物色难得的人才。",
+		"source" : "元·朱凯《昊天塔》第一折：“也不须打凤捞龙，别选元戎。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打击报复",
+		"pronunciation" : "dǎ jī bào fù",
+		"interpretation" : "打击：攻击。用敌对的态度回击对方。",
+		"source" : "《人民日报》1988.12.31：“披露了我们向上级反映我店截留利润六十五万元的问题后，遭受打击报复的一些真相。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打家劫舍",
+		"pronunciation" : "dǎ jiā jié shè",
+		"interpretation" : "劫：强抢；舍：住房。指成帮结伙到人家里抢夺财物。",
+		"source" : "元·武汉臣《玉壶春》第四折：“见俫子撅天扑地，不弱如打家劫舍杀人贼。”",
+		"example" : "近年泊内是宋江一伙强人在那里打家劫舍，官兵捕盗，近他不得。（明·施耐庵《水浒全传》第六十回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打富济贫",
+		"pronunciation" : "dǎ fù jì pín",
+		"interpretation" : "打击豪绅、地主，贪官污吏，夺取其财物救济穷人。",
+		"source" : "",
+		"example" : "（李自成）在商洛山中打富济贫，笼络人心，故山中军事机密不易探明。（姚雪垠《李自成》第二卷第二十二章）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打小算盘",
+		"pronunciation" : "dǎ xiǎo suàn pán",
+		"interpretation" : "在小处精打细算，斤斤计较。",
+		"source" : "清·李宝嘉《官场现形记》六十六回：“有些会打小算盘的人，譬如一向是孝敬一百两的如今只消一百块钱。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打开天窗说亮话",
+		"pronunciation" : "dǎ kāi tiān chuāng liàng huà",
+		"interpretation" : "比喻无须规避，公开说明。",
+		"source" : "",
+		"example" : "“打开天窗说亮话”，还不是等姓贾的过来尽点心，只要晚生出把力，你们老爷还有什么不明白的。（清·李宝嘉《官场现形记》第二十七回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打得火热",
+		"pronunciation" : "dǎ dé huǒ rè",
+		"interpretation" : "形容十分亲密。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打恭作揖",
+		"pronunciation" : "dǎ gōng zuò yī",
+		"interpretation" : "旧时礼节，弯身抱拳，上下摆动，表示恭敬。",
+		"source" : "明·李贽《因记往事》：“嗟乎！平居无事，只解打恭作揖，终日匡坐，同于泥塑。”",
+		"example" : "宝玉见他这样，还认作是昨日中晌的事，那知晚间的这段公案，还打恭作揖的。★《红楼梦》第二七回",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打情骂俏",
+		"pronunciation" : "dǎ qíng mà qiào",
+		"interpretation" : "情：风情；俏：俏皮、风趣。指男女调情。",
+		"source" : "",
+		"example" : "高兴起来，简直不分主仆，打情骂俏的搅做一团。（清·曾朴《孽海花》第三十五回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打成一片",
+		"pronunciation" : "dǎ chéng yī piàn",
+		"interpretation" : "形容感情融洽，成为一体。",
+		"source" : "宋·释普济《五灯会元》卷十五：“老僧四十年方打成一片。”",
+		"example" : "扬弃知识阶级的绅士身分，提高大众的鉴赏水准，这样打成一片，平民化，大众化。（朱自清《论通俗化》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打抱不平",
+		"pronunciation" : "dǎ bào bù píng",
+		"interpretation" : "遇见不公平的事，挺身而出，帮助受欺负的一方。",
+		"source" : "清·曾朴《孽海花》第三十五回：“不瞒两位说，老汉平生，最喜欢劫副教授济贫抑强扶弱抱打不平。”",
+		"example" : "他遇到不公平的事总爱打抱不平。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打拱作揖",
+		"pronunciation" : "dǎ gǒng zuò yī",
+		"interpretation" : "旧时礼节，弯身抱拳，上下摆动，表示恭敬。",
+		"source" : "孔厥、袁静《新儿女英雄传》第十四回：“大老鸹吓得直不起腰来，打拱作揖的说。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打牙犯嘴",
+		"pronunciation" : "dǎ yá fàn zuǐ",
+		"interpretation" : "比喻乱开玩笑。",
+		"source" : "明·兰陵笑笑生《金瓶梅词话》第二十五回：“越发在人前花哨起来，常和众人打牙配嘴，全无忌惮。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打牙配嘴",
+		"pronunciation" : "dǎ yá pèi zuǐ",
+		"interpretation" : "指相互戏虐，闲扯说笑。",
+		"source" : "明·兰陵笑笑生《金瓶梅词话》第二十三回：“（这妇人）常和从人打牙配嘴，全无忌惮。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打狗看主",
+		"pronunciation" : "dǎ gǒu kàn zhǔ",
+		"interpretation" : "狗有主人，打不打它，要看给其主人留不留情面。比喻处理坏人下事要顾全其后台的情面。",
+		"source" : "明·兰陵笑笑生《金瓶梅词话》第七十九回：“不知原来家中大小姐这等暴躁性子，就是打狗也看主人面。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打破常规",
+		"pronunciation" : "dǎ pò cháng guī",
+		"interpretation" : "常规：沿袭下来的规矩。打破了一般的规矩或一向实行的规章制度。",
+		"source" : "无",
+		"example" : "他此举就是想打破常规去实现他的梦想。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打破沙锅问到底",
+		"pronunciation" : "dǎ pò shā guō wèn dào dǐ",
+		"interpretation" : "比喻追究事情的根底。",
+		"source" : "宋·黄庭坚《拙轩颂》：“觅巧了不可得，拙从何来？打破沙盆一问，狂子因此眼开，弄巧成拙，为蛇画足，何况头上安头，屋下安屋，毕竟巧者有余，拙者不足。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打破砂锅问到底",
+		"pronunciation" : "dǎ pò shā guō wèn dào dǐ",
+		"interpretation" : "比喻追究事情的根底。",
+		"source" : "见“打破沙锅问到底”。",
+		"example" : "我们必须绞脑筋，打破砂锅问到底。★陶行知《普及现代生活教育之路》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打肿脸充胖子",
+		"pronunciation" : "dǎ zhǒng liǎn chōng pàng zī",
+		"interpretation" : "比喻宁可付出代价而硬充作了不起。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打草惊蛇",
+		"pronunciation" : "dǎ cǎo jīng shé",
+		"interpretation" : "原比喻惩甲菟乙。后多比喻做法不谨慎，反使对方有所戒备。",
+		"source" : "明·郎瑛《七修类稿》卷二十四：“打草惊蛇，乃南唐王鲁为当涂令，日营资产，部人诉主簿贪污，鲁曰：‘汝虽打草，吾已惊蛇。’” 打草惊蛇的故事",
+		"example" : "空自去“打草惊蛇”，倒吃他做了手脚，却是不好。（明·施耐庵《水浒全传》第二十九回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打落水狗",
+		"pronunciation" : "dǎ luò shuǐ gǒu",
+		"interpretation" : "比喻继续打击已经失败的坏人。",
+		"source" : "",
+		"example" : "至于“打落水狗”，则并不如此简单，当看狗之怎样，以及如何落水而定。（鲁迅《坟·论“费厄波赖”应该缓行》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打蛇打七寸",
+		"pronunciation" : "dǎ shé dǎ qī cùn",
+		"interpretation" : "比喻说话做事必须抓住主要环节。",
+		"source" : "",
+		"example" : "但做事也要“打蛇打七寸”才妙，你先生请上裁。（清·吴敬梓《儒林外史》第十四回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打街骂巷",
+		"pronunciation" : "dǎ jiē mà xiàng",
+		"interpretation" : "街、巷：指邻里街坊。形容无事生非，寻衅闹事，耍无赖。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打诨插科",
+		"pronunciation" : "dǎ hùn chā kē",
+		"interpretation" : "诨：诙谐逗趣的话。科：指古典戏曲中的表情和动作；戏曲、曲艺演员在表演中穿插进去的引人发笑的动作或语言。同“插科打诨”。",
+		"source" : "无",
+		"example" : "在聊天室里形形色色的人打诨插科地聊着网话。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打躬作揖",
+		"pronunciation" : "dǎ gōng zuō yī",
+		"interpretation" : "拱、揖：两手合抱致敬。弯身报拳行礼。表示恭敬顺从或恳求的样子。",
+		"source" : "",
+		"example" : "宝玉见他这样，还认作是昨日晌午的事，那知晚间的这件公案，还打躬作揖的。（清·曹雪芹《红楼梦》第二十七回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打边鼓",
+		"pronunciation" : "dǎ biān gǔ",
+		"interpretation" : "指从旁鼓吹、协助。",
+		"source" : "鲁迅《集外集·序言》：“只因为那时诗坛寂寞，所以打打边鼓，凑些热闹。”",
+		"example" : "他留下唐仲笙，本来想他会在旁边打边鼓，帮忙他劝说马慕韩，没料到马慕韩把唐仲笙抓过去，倒变成绊脚石了。★周而复《上海的早晨》第四部一",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打退堂鼓",
+		"pronunciation" : "dǎ tuì táng gǔ",
+		"interpretation" : "原指封建官吏退堂时打鼓。现在比喻跟人共同做事中途退缩。",
+		"source" : "元·关汉卿《窦娥冤》第二折：“左右，打散堂鼓，将马来，回私宅去也。”",
+		"example" : "我们做事一定要有恒心，不可以一遇到困难时，就打退堂鼓。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打铁趁热",
+		"pronunciation" : "dǎ tiě chèn rè",
+		"interpretation" : "比喻做事要抓紧时机，加速进行。",
+		"source" : "",
+		"example" : "打铁趁热，放火趁风，你们不等这时万人一心的功夫，调动他们还等什么！（骆宾基《胶东的暴民》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打闷葫芦",
+		"pronunciation" : "dǎ mèn hú lu",
+		"interpretation" : "闷葫芦：比喻难猜解而令人纳闷的话或事情。指猜测令人纳闷的话事事情。",
+		"source" : "",
+		"example" : "（仙姑》恐泄漏天要，便掩了卷册，笑向宝玉道：“且随我去游玩奇景，何必在此打闷葫芦。”（清·曹雪芹《红楼梦》第五回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打马虎眼",
+		"pronunciation" : "dǎ mǎ hu yǎn",
+		"interpretation" : "故意装糊涂蒙骗人。",
+		"source" : "",
+		"example" : "他这是打马虎眼，麻痹我们大伙儿，假充好人，想混过这一关去！（老舍《华实春秋》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打鸭子上架",
+		"pronunciation" : "dǎ yā zi shàng jià",
+		"interpretation" : "比喻强迫去做能力做不到的事。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打鸭惊鸳",
+		"pronunciation" : "dǎ yā jīng yuān",
+		"interpretation" : "比喻打甲惊乙。也比喻株连无罪的人。",
+		"source" : "明·梅鼎祚《昆化奴》第二折：“我不是要害你性命也，则怕打鸭惊鸳，打草惊蛇。”",
+		"example" : "焚琴煮鹤垂垂尽，打鸭惊鸳事事非。★傅尃《避地》诗",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "打鸭惊鸳鸯",
+		"pronunciation" : "dǎ yā jīng yuān yāng",
+		"interpretation" : "比喻打甲惊乙。也比喻株连无罪的人。",
+		"source" : "宋·梅尧臣《打鸭》诗：“莫打鸭，打鸭惊鸳鸯。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "抵掌而谈",
+		"pronunciation" : "dǐ zhǎng ér tán",
+		"interpretation" : "指谈得很融洽。",
+		"source" : "《战国策·秦策一》：“见说赵王于华屋之下，抵掌而谈。”",
+		"example" : "善言论者抵掌而谈，问地球一切事。（鲁迅《月界旅行》第十三回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "抵瑕蹈隙",
+		"pronunciation" : "dǐ xiá dǎo xì",
+		"interpretation" : "隙：裂缝，间隙。指攻击别人的弱点或错误。",
+		"source" : "唐·柳宗元《答问》：“而仆乃蹇浅窄僻，跳浮嚄唶，抵瑕陷厄。”",
+		"example" : "要请人帮忙，想抵瑕蹈隙拣人的便宜，要先懂万国公法，不然处处授人权柄。（高阳《清宫外史》下册）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "担惊受怕",
+		"pronunciation" : "dān jīng shòu pà",
+		"interpretation" : "形容十分担心或害怕。",
+		"source" : "元·无名氏《梧桐叶》第四折：“为兵戈担惊受恐。”",
+		"example" : "休听那算命的胡说，撇下一个家业，担惊受怕，去虎穴龙潭里做买卖。（明·施耐庵《水浒全传》第六十一回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "担雪塞井",
+		"pronunciation" : "dān xuě sāi jǐng",
+		"interpretation" : "挑雪去填塞水井。比喻徒劳无功。",
+		"source" : "唐·顾况《行路难诗》：“君不见担雪塞井空用力，炊沙作饭岂堪食。”",
+		"example" : "只是心心念念记挂此事，一似担雪塞井，再没个满的日子。（明·凌濛初《二刻拍案惊奇》卷八）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "担雪填井",
+		"pronunciation" : "dān xuě tián jǐng",
+		"interpretation" : "挑雪去填塞水井。比喻徒劳无功。",
+		"source" : "《五灯会元·智海平禅师法嗣·净因继成禅师》：“大似担雪填井，傍若无人。”",
+		"example" : "催趱各处径调军马前去策应，正如担雪填井一般。★《水浒传》第八三回",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "掂斤播两",
+		"pronunciation" : "diān jīn bō liǎng",
+		"interpretation" : "掂、播：托在掌上试轻重。比喻在小事情上过分计较。",
+		"source" : "元·王实甫《西厢记》第一本第二折：“任凭人说短论长，他不怕掂斤播两。”",
+		"example" : "给他看也是枉然，非但不能照办，还要掂斤播两，说些不相干的话。（《晚清文学丛钞·糊涂世界》第十回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "掇菁撷华",
+		"pronunciation" : "duō jīng xié huá",
+		"interpretation" : "掇：拾取；菁：精华。撷：摘取。选取事物的精华。",
+		"source" : "清·黄宗羲《明文案序上》：“《文选》主于修辞，一知半解文章家有偏霸也；《文粹》掇菁撷华，迹选之鼓吹；《文鉴》主于政事，意不在文。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "掉书袋",
+		"pronunciation" : "diào shū dài",
+		"interpretation" : "掉：摆动，摇动。指说话或写文章好引用古书言词来卖弄自己的学识渊博。",
+		"source" : "《南唐书·彭利用传》：“利用对家人稚子，下逮奴隶，言必据书史，断言破句，以代常谈，俗谓之‘掉书袋’。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "掉以轻心",
+		"pronunciation" : "diào yǐ qīng xīn",
+		"interpretation" : "掉：摆动；轻：轻率。对事情采取轻率的漫不经心的态度。",
+		"source" : "唐·柳宗元《答韦中立论师道书》：“故吾每为文章，未尝敢以轻心掉之。”",
+		"example" : "由于这样，好些人就对于文学作品中另一方面的道理—装饰的美掉以轻心了。（秦牧《两只青蛙》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "掉舌鼓唇",
+		"pronunciation" : "diào shé gǔ chún",
+		"interpretation" : "炫耀口才，夸夸其谈。",
+		"source" : "",
+		"example" : "妆女的呈娇献媚，令人消魂；耍丑的掉舌鼓唇，令人捧腹。（清·李绿园《歧路灯》第七十九回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "敌惠敌怨",
+		"pronunciation" : "dí huì dí yuàn",
+		"interpretation" : "犹言报德报怨。",
+		"source" : "《左传·文公六年》：“夷之蒐，贾季戮臾骈，臾骈之人欲尽杀贾氏以报焉，臾骈曰：‘不可，吾闻前志有之曰：敌惠敌怨，不在后嗣，忠之道也。’”",
+		"example" : "夫古人敌惠敌怨，不及其子。★明·张居正《答江兵宪蔡春壹书》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "斗折蛇行",
+		"pronunciation" : "dǒu zhé shé xíng",
+		"interpretation" : "斗折：像北斗星的排列一样曲折。像北斗星一样弯曲，像蛇一样曲折行进。形容道路曲折蜿蜒。",
+		"source" : "唐·柳宗元《永州八记·小石潭记》：“漂西南而望，斗折蛇行，明灭可见。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "斗方名士",
+		"pronunciation" : "dǒu fāng míng shì",
+		"interpretation" : "斗方：一二尺见方的诗幅或书画页；名士：知名而未出仕的人。好在斗方上写诗或作画以标榜的“名士”。旧指冒充风雅的人。",
+		"source" : "",
+		"example" : "那一班斗方名士，结识了两个报馆主笔，天天弄些诗去登报，要借此博个诗翁的名色。（清·吴趼人《二十年目睹之怪现状》第十九回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "斗榫合缝",
+		"pronunciation" : "dǒu sǔn hé fèng",
+		"interpretation" : "榫：榫头，竹、木、石制器物或构件上利用凹凸相接处凸出的部分榫头和卯眼非常适合，不露缝隙。形容手艺高超。",
+		"source" : "明·张岱《陶庵梦忆·报恩塔》：“一金身，琉璃砖十数块凑成之，其衣褶不爽分，其面目不爽毫，其须眉不爽忽，斗笋合缝信属鬼工。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "斗酒学士",
+		"pronunciation" : "dǒu jiǔ xué shì",
+		"interpretation" : "指酒量大的文士或名臣。",
+		"source" : "《新唐书·王绩传》：“以前官待诏门下省，故事，官给酒三升。或问：‘待诏何乐邪？’答曰：‘良酝可恋耳。’侍中陈叔达闻之，日给一斗，时称‘斗酒学士’。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "斗量车载",
+		"pronunciation" : "dǒu liáng chē zài",
+		"interpretation" : "载：装载。用车载，用斗量。形容数量很多，不足为奇。",
+		"source" : "《三国志·吴志·孙权传》：“遣都尉赵咨使魏。”裴松之注引《吴书》：“如臣之比，车载斗量，不可胜数。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "斗鸡走狗",
+		"pronunciation" : "dòu jī zǒu gǒu",
+		"interpretation" : "使公鸡相斗，使狗赛跑。指旧时剥削阶级子弟游手好闲的无聊游戏。",
+		"source" : "《史记·袁盎晁错列传》：“盎病免居家，与阊里淝枕，相随行斗鸡走狗。”",
+		"example" : "虽然应名来上学，亦不过虚掩眼目而已，仍是斗鸡走狗，赏花阅柳为事。（清·曹雪芹《红楼梦》第九回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "断发文身",
+		"pronunciation" : "duàn fà wén shēn",
+		"interpretation" : "剪短头发，身上刺着花纹。是古代某些民族的风俗。",
+		"source" : "《左传·哀公七年》：“大伯端委以治周礼，仲雍嗣之，断发文身，祼以为饰，岂礼也哉。”《礼记·王制》：“东方曰夷，被发文身，有不火食者矣。”",
+		"example" : "太伯仲雍，王德之仁。行施百世，断发文身。（汉·曹操《善哉行》诗）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "断圭碎璧",
+		"pronunciation" : "duàn guī suì bì",
+		"interpretation" : "喻指片段而珍贵的文字。同“断珪缺璧”。",
+		"source" : "宋·王应麟《困学纪闻·仪礼》：“虽寂寥片言，断圭碎璧，犹可宝也。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "断烂朝报",
+		"pronunciation" : "duàn làn cháo bào",
+		"interpretation" : "断烂：形容陈腐杂乱；朝报：古代传抄皇帝诏令和官员奏章之类的文件。指陈旧、残缺，没有参考价值的历史记载。",
+		"source" : "《宋史·王安石传》：“黜《春秋》之书，不使列于学官，至戏目为断烂朝报。”",
+		"example" : "真令人莫名其妙。无怪朱子疑心他不可解，王安石蔑视他为断烂朝报，要束诸高阁了。（清·曾朴《孽海花》第三十四回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "断章取义",
+		"pronunciation" : "duàn zhāng qǔ yì",
+		"interpretation" : "断：截断；章：音乐一曲为一章。指不顾全篇文章或谈话的内容，孤立地取其中的一段或一句的意思。指引用与原意不符。",
+		"source" : "《左传·襄公二十八年》：“赋诗断章，余取所求焉。”",
+		"example" : "宋人攻击王介甫，说他将明妃写成一个不忠君不爱国的人，其实是断章取义，故入人罪。（朱自清《清华的一日》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "断线偶戏",
+		"pronunciation" : "duàn xiàn ǒu xì",
+		"interpretation" : "像断了线的木偶，不能动弹。",
+		"source" : "明·冯梦龙《醒世恒言》卷六：“犹如断线偶戏，手足掸软，连话都无了。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "断织劝学",
+		"pronunciation" : "duàn zhī quàn xué",
+		"interpretation" : "原指东汉时乐羊子妻借切断织机上的线，来讽喻丈夫不可中途废学。后比喻劝勉学习。",
+		"source" : "《后汉书：乐羊子妻传》载：“远寻师，一年来归，妻跪问其故，羊子曰：‘久行怀思，无它异也。’妻乃引刀趋机而言曰：‘……，今若断斯织也，则损失成功，……，若中道而归，何异断斯织乎？’” 断织劝学的故事",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "断编残简",
+		"pronunciation" : "duàn biān cán jiǎn",
+		"interpretation" : "编：穿简的细长皮条；简：古代用来写字的竹片。指残缺不全的书籍文章。",
+		"source" : "宋·黄庭坚《读书呈几复》：“身入群经作蠹鱼，断编残简伴闲居。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "断脰决腹",
+		"pronunciation" : "duàn dòu jué fù",
+		"interpretation" : "脰：颈；决：破。杀掉头，剖开腹。形容惨烈的死难。",
+		"source" : "《战国策·楚策一》：“有断脰决腹，壹瞑而万世不视，不知所益，以忧社稷者。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "断还归宗",
+		"pronunciation" : "duàn huán guī zōng",
+		"interpretation" : "指出嫁或被卖的女子由官府判决归还母家。",
+		"source" : "明·凌濛初《初刻拍案惊奇》第二卷：“如今认定我是你失去的妹子，我认定你是哥哥，两口同声当官去告理，一定断还归宗。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "断雁孤鸿",
+		"pronunciation" : "duàn yàn gū hóng",
+		"interpretation" : "鸿：鸿雁。离了群的孤独大雁。比喻孤身独处，多指未成婚的男子。",
+		"source" : "明·张凤翼《红拂记·杨公完偶》：“徐生，你一向断雁孤鸿，可曾寻偶否？”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "断鹤续凫",
+		"pronunciation" : "duàn hè xù fú",
+		"interpretation" : "断：截断；续：接；凫：野鸭。截断鹤的长腿去接续野鸭的短腿。比喻行事违反自然规律。",
+		"source" : "《庄子·骈拇》：“长者不为有余，短者不为不足，。是故凫胫虽短，续之则忧；鹤胫虽长，断之则悲。”",
+		"example" : "断鹤续凫，娇作者妄；移花接木，创始者奇。（清·蒲松龄《聊斋志异·陆判》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "杜渐防微",
+		"pronunciation" : "dù jiàn fáng wēi",
+		"interpretation" : "杜：堵住；渐：指事物的开端；微：微小。错误或坏事刚冒头就及时制止，不让它发展。",
+		"source" : "《后汉书·丁鸿传》：“若敕政责躬，杜渐防萌，则凶妖销灭，害除福凑矣。”",
+		"example" : "杜渐防微之责，舍我辈其谁堪任之！（闻一多《给梁实秋、吴景超、翟毅夫、顾毓琇、熊佛西诸先生》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "杜渐防萌",
+		"pronunciation" : "dù jiàn fáng méng",
+		"interpretation" : "杜：堵住；渐：指事物的开端；萌：萌芽。在事故或灾害尚未发生时就预防。",
+		"source" : "《后汉书·丁鸿传》：“若敕政责躬，杜渐防萌，则凶妖销灭，害除福凑矣。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "杜绝后患",
+		"pronunciation" : "dù jué hòu huàn",
+		"interpretation" : "杜绝：堵塞、断绝；患：祸害、祸患。指彻底消除以后可能产生的祸患。",
+		"source" : "明·罗贯中《平妖传》第四十回：“那安放白玉炉的山峰崩将下来，恰好堵了洞门。雾幙白玉炉仍收回天上，从此白云洞再无人到。此是玉帝杜绝后患之意。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "杜门自守",
+		"pronunciation" : "dù mén zì shòu",
+		"interpretation" : "关闭大门，安分守已。",
+		"source" : "《汉书·孔光传》：“光退闾里，杜门自守。”",
+		"example" : "是以杜门自守，遥望堂阶，茫如梯天。（清·刘大槐《与吴阁学书》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "杜门谢客",
+		"pronunciation" : "dù mén xiè kè",
+		"interpretation" : "杜门：闭门不出；谢客：谢绝宾客。指不与人往来。",
+		"source" : "《新五代史·赵光逢传》：“以世乱，弃官居洛阳，杜门绝人事者五六年。”",
+		"example" : "王瑞虹杜门谢客，不与外事。（清·王晫《今世说·言语》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "杜隙防微",
+		"pronunciation" : "dù xī fāng wēi",
+		"interpretation" : "杜隙：杜绝疏失。杜绝疏失，防患于未然。",
+		"source" : "明·陈子龙《整饬京营疏》：“择才望大臣素为都人信服者以统之，弹压维制，杜隙防微，亦不为无助也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "杜鹃啼血",
+		"pronunciation" : "dù juān tí xuě",
+		"interpretation" : "传说杜鹃昼夜悲鸣，啼至血出乃止。常用以形容哀痛之极。",
+		"source" : "唐·白居易《琵琶行》：“其间旦暮闻何物？杜鹃啼血猿哀鸣。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "栋折榱崩",
+		"pronunciation" : "dòng zhé cuī bēng",
+		"interpretation" : "榱：椽子。正梁和椽子都毁坏了。比喻当政的人倒台或死去。",
+		"source" : "《左传·襄公三十一年》：“栋折榱崩，侨将厌焉。”",
+		"example" : "睹邪说暴行之日甚，觉栋折榱崩之堪虞。（蔡东藩、许廑父《民国通俗演义》第一百三十一回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "栋梁之才",
+		"pronunciation" : "dòng liáng zhī cái",
+		"interpretation" : "比喻能担当大事的人才。",
+		"source" : "无",
+		"example" : "每个青年都应该努力向上，刻苦学习，使自己成为国家的栋梁之才。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "殆无孑遗",
+		"pronunciation" : "dài wú jié yí",
+		"interpretation" : "殆：几乎；孑遗：剩余。几乎没有一点余剩。",
+		"source" : "晋·周祗《与刘裕书谏伐蜀》：“然益土荒残，野无青草，成都之内，殆无孑遗。”",
+		"example" : "至已丑为西兵所败，故境内残灭，殆无孑遗。（清·归庄《黄孝子传》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "殆无虚日",
+		"pronunciation" : "dài wú xū rì",
+		"interpretation" : "殆：几乎；虚：空。几乎没有一天空着。形容几乎天天如此。",
+		"source" : "宋·周密《武林旧事·大礼》：“先自前一月来，次第按试习仪，殆无虚日。”",
+		"example" : "旋吴之后，文宴过从，殆无虚日。（清·夏敬渠《野叟曝言·序》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "殚思极虑",
+		"pronunciation" : "dān sī jí lǜ",
+		"interpretation" : "殚：竭尽；虑：思虑。形容用尽心思。",
+		"source" : "",
+		"example" : "阎敬铭亲自主持会议，殚思极虑，拟成开源之策十二条。（高阳《母子君臣》第八十一回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "殚智竭力",
+		"pronunciation" : "dān zhì jié lì",
+		"interpretation" : "殚：竭尽。用尽智慧和力量。",
+		"source" : "《吕氏春秋·本味》“相为殚智竭力，犯危行苦。”",
+		"example" : "殚智竭力求得这种“最大的贡献”，这是人人对于自己、对于社会应负的责任。（邹韬奋《经历·前途》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "殚精毕力",
+		"pronunciation" : "dān jīng bì lì",
+		"interpretation" : "殚、毕：尽。尽心竭力。",
+		"source" : "明·张居正《示季子懋修》：“甲辰下第，然后揣己力量，复寻前辙，昼作夜思，殚精毕力，幸而艺成。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "殚精竭虑",
+		"pronunciation" : "dān jīng jié lǜ",
+		"interpretation" : "殚：竭尽；虑：思虑。形容用尽心思。",
+		"source" : "",
+		"example" : "但这“殚精竭虑用苦功夫去认真创作”出来的学说，和我们只有常识的见解是很不一样的。（鲁迅《花边文学·商贾的批评》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "殚见洽闻",
+		"pronunciation" : "dān jiàn qià wén",
+		"interpretation" : "殚：尽，完全；洽：广博。该见的都见过了，该听的都听过了。形容见多识广，知识渊博。",
+		"source" : "汉·班固《西都赋》：“元元本本，殚见洽闻。”",
+		"example" : "殚见洽闻，非后儒所能及矣。（清·陈澧《东塾读书记·礼记》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "殚财竭力",
+		"pronunciation" : "dān cái jié lì",
+		"interpretation" : "殚、竭：尽。用尽所有的财力和人力。形容竭尽全力。",
+		"source" : "唐·李邕《海州大云寺禅院碑》：“粤若殚财竭力，刻桷雕题，积四三年，模造化意。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "毒手尊前",
+		"pronunciation" : "dú shǒu zūn qián",
+		"interpretation" : "泛指无情的打击。",
+		"source" : "《新五代史·唐臣传·李袭吉》：“至于毒手尊拳，交相于暮夜；金戈铁马，蹂践于明村。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "毒赋剩敛",
+		"pronunciation" : "dú fù shèng liǎn",
+		"interpretation" : "指横征暴敛。",
+		"source" : "宋·邵博《闻见后录》卷二八：“当毒赋剩敛鞭箠马牛其人之日，一漕夔，再漕潼，川民独晏然倚以朝夕也。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "洞彻事理",
+		"pronunciation" : "dòng chè shì lǐ",
+		"interpretation" : "洞彻：透彻，深远；理：道理，规律。深入透彻了解事物规律。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "洞若观火",
+		"pronunciation" : "dòng ruò guān huǒ",
+		"interpretation" : "洞：透彻。形容观察事物非常清楚，好象看火一样。",
+		"source" : "《尚书·盘庚上》：“予若观火。”",
+		"example" : "否则怎样，他却没有说。但这是“洞若观火”的，否则，就不给。（鲁迅《华盖集续编·记“发薪”》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "涤瑕荡垢",
+		"pronunciation" : "dí xiá dàng gòu",
+		"interpretation" : "指清除旧的恶习。同“涤瑕荡秽”。",
+		"source" : "唐·韩愈《八月十五夜赠张功曹》诗：“迁者追回流者还，涤瑕荡垢朝清班。”",
+		"example" : "看涤瑕荡垢土重光，全无敌。★陈毅《满江红·黄金海岸》词",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "淡泊以明志，宁静以致远",
+		"pronunciation" : "dàn bó yǐ míng zhì，níng jìng yǐ zhì yuǎn",
+		"interpretation" : "淡泊：恬淡寡欲；宁静：安宁恬静；致：达到。不追求名利，生活简朴以表现自己高尚的情趣；心情平稳沉着，才可有所作为。",
+		"source" : "汉·刘安《淮南子·主术训》：“是故非淡薄无以明德，非宁静无以致远，非宽大无以兼覆。”",
+		"example" : "我们要做到淡泊以明志，宁静以致远。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "淡泊明志",
+		"pronunciation" : "dàn bó míng zhì",
+		"interpretation" : "指不追求名利才能使志趣高洁。",
+		"source" : "三国·蜀·诸葛亮《戒子书》：“非淡泊无以明志，非宁静无以致远。”",
+		"example" : "至于宽闲之野，寂寞之滨，每自寓其天怀之乐，而淡泊明志，宁静致远，未尝不处处流露。（清·无名氏《杜诗言志》卷三）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "淡然处之",
+		"pronunciation" : "dàn rán chǔ zhī",
+		"interpretation" : "以冷淡的态度对待它，不拿它当回事。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "淡而不厌",
+		"pronunciation" : "dàn ér bù yàn",
+		"interpretation" : "比喻既不热心也不厌弃。",
+		"source" : "",
+		"example" : "他不像先前那样火着心拉买卖了，可也不故意的偷懒，就那么淡而不厌的一天天的混。（老舍《骆驼祥子》二十）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "滴水穿石",
+		"pronunciation" : "dī shuǐ chuān shí",
+		"interpretation" : "水不断下滴，可以闹穿石头。比喻只要有恒心，不断努力，事情一定成功。",
+		"source" : "宋·罗大经《鹤林玉露》：“绳锯木断，水滴石穿。”",
+		"example" : "同学们在日常学习中，应该有滴水穿石的精神。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "澹泊寡欲",
+		"pronunciation" : "dàn bó guǎ yù",
+		"interpretation" : "澹泊：恬淡；寡：少；欲：欲望。形容心情恬淡，不图名利。",
+		"source" : "三国·魏·曹植《蝉赋》：“实澹泊而寡欲兮，独怡乐而长吟。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "澹泊明志，宁静致远",
+		"pronunciation" : "dàn bó míng zhì, níng jìng zhì yuǎn",
+		"interpretation" : "澹泊：不追求名利；宁静：心情平静沉着。不追求名利，生活简朴以表现自己高尚的情趣；心情平稳沉着，专心致志，才可有所作为。",
+		"source" : "汉·刘安《淮南子·主术训》：“是故非澹漠无以明志，非宁静无以致远。”",
+		"example" : "至于宽闲之野，寂寞之滨，每自寓其天怀之乐，而澹泊明志，宁静致远，未尝不处处流露。（清·无名氏《杜诗言志》卷三）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "灯火辉煌",
+		"pronunciation" : "dēng huǒ huī huáng",
+		"interpretation" : "形容夜晚灯光明亮的繁华景象。",
+		"source" : "",
+		"example" : "尤氏等送至大厅前，见灯火辉煌，众小厮都在丹墀侍立。（清·曹雪琴《红楼梦》第七回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "灯烛辉煌",
+		"pronunciation" : "dēng zhú huī huáng",
+		"interpretation" : "辉煌：光辉耀眼。形容灯光烛火通明，光辉耀眼。",
+		"source" : "明·罗贯中《三国演义》第四十七回：“军士引阚泽至，只见帐上灯烛辉煌，曹操凭几危坐。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "灯红酒绿",
+		"pronunciation" : "dēng hóng jiǔ lǜ",
+		"interpretation" : "形容奢侈糜烂的生活。",
+		"source" : "清·吴趼人《二十年目睹之怪现状》第三十三回：“（玉生）侧着头想了一会道‘灯红酒绿’好吗？”",
+		"example" : "少数人过着灯红酒绿，醉生梦死的生活，人民不满。（老舍《鼓书艺人》十九）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "灯蛾扑火",
+		"pronunciation" : "dé é pū huǒ",
+		"interpretation" : "比喻自己找死。",
+		"source" : "《梁书·倒溉传》：“如飞蛾之赴火，岂焚身之可吝。”",
+		"example" : "这贼配军却不是作死，倒来戏弄老娘！正是“灯蛾扑火，惹焰烧身”。（明·施耐庵《水浒全传》第二十七回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "点胸洗眼",
+		"pronunciation" : "diǎn xiōng xǐ yǎn",
+		"interpretation" : "指一洗尘俗，使人豁然明朗。",
+		"source" : "明·陈继儒《偃曝谈馀》卷下：“《通释》云：‘字原有秦隶汉隶，今当以晋唐书为晋隶唐隶，则自然易晓也。’张绅此言，可为点胸洗眼之语。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "点铁成金",
+		"pronunciation" : "diǎn tiě chéng jīn",
+		"interpretation" : "原指用手指一点使铁变成金的法术。比喻修改文章时稍稍改动原来的文字，就使它变得很出色。",
+		"source" : "宋·黄庭坚《答洪驹父书》：“古之能为文章者，真能陶冶万物，虽取古人之陈言入于翰墨，如灵丹一粒，点铁成金也。”",
+		"example" : "真是点铁成金，会者不难，只改得二三十个字，便通篇改观了。（清·吴趼人《二十年目睹之怪现状》第四十三回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独具匠心",
+		"pronunciation" : "dú jù jiàng xīn",
+		"interpretation" : "匠心：巧妙的心思。具有独到的灵巧的心思。指在技巧和艺术方面的创造性。",
+		"source" : "",
+		"example" : "他的这种设计真是独具匠心。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独出心裁",
+		"pronunciation" : "dú chū xī cái",
+		"interpretation" : "原指诗文的构思有独到的地方。后泛指想出的办法与众不同。",
+		"source" : "明·李贽《水浒全书发凡》：“今别出心裁，不依旧样，或特标于目外，或叠采于回中。”",
+		"example" : "王弼注释《周易》，撇了象占旧解，独出心裁，畅言义理，于是天下后世，凡言《易》言，莫不宗之。（清·李汝珍《镜花缘》第十八回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独出机杼",
+		"pronunciation" : "dú chū jī zhù",
+		"interpretation" : "独：独特，特别；机杼：织布机和织布梭，引申为织布方法。比喻文章的命题和构思独特新颖，与众不同。",
+		"source" : "《北史·祖莹传》：“作文须自出机杼，或一家风骨，何能共人同生活也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独到之处",
+		"pronunciation" : "dú dào zhī chù",
+		"interpretation" : "指与众不同的特殊的地方或见解。含褒意。",
+		"source" : "",
+		"example" : "往往独到之处，能以中锋达意，以中声赴节。（清·况周颐《惠风词话》第二卷）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独占鳌头",
+		"pronunciation" : "dú zhàn áo tóu",
+		"interpretation" : "鳌头：宫殿门前台阶上的鳌鱼浮雕，科举进士发榜时状元站此迎榜。科举时代指点状元。比喻占首位或第一名。",
+		"source" : "元·无名氏《陈州粜米》楔子：“殿前曾献升平策，独占鳌头第一名。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独善其身",
+		"pronunciation" : "dú shàn qí shēn",
+		"interpretation" : "独：唯独；善：好，维护。原意是做不上官就修养好自身。现指只顾自己，不管别人。",
+		"source" : "《孟子·尽心上》：“穷则独善其身，达则兼善天下。”",
+		"example" : "独善其身尽日安，何须千古名不朽。（明·罗贯中《三国演义》第三十七回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独当一面",
+		"pronunciation" : "dú dāng yī miàn",
+		"interpretation" : "单独负责一个方面的工作。",
+		"source" : "《史记·留侯世家》：“而汉王之将，独韩信可属大事，当一面。”",
+		"example" : "将来可以独当一面，只嫌功名心重些。（清·曾朴《孽海花》第四回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独揽大权",
+		"pronunciation" : "dú lǎn dà quán",
+		"interpretation" : "揽：把持。一个人把持着权力，独断专行。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独断专行",
+		"pronunciation" : "dú duàn zhuān xíng",
+		"interpretation" : "行事专断，不考虑别人的意见。形容作风不民主。",
+		"source" : "",
+		"example" : "他平时不讲民主，做事情常常是独断专行。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独断独行",
+		"pronunciation" : "dú duàn dú xíng",
+		"interpretation" : "行事专断，不考虑别人的意见。形容作风不民主。",
+		"source" : "",
+		"example" : "你在他手下办事，只可以独断独行；倘若都要请教过他再做，那是一百年也不会成功的。（清·李宝嘉《官场现形记》第十二回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独木不成林",
+		"pronunciation" : "dú mù bù chéng lín",
+		"interpretation" : "一棵树成不了森林。比喻个人力量有限，办不成大事。",
+		"source" : "汉·崔骃《达旨》：“高树靡阴，独木不林。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独木不林",
+		"pronunciation" : "dú mù bù lín",
+		"interpretation" : "一棵树成不了森林。比喻个人力量有限，办不成大事。",
+		"source" : "汉·崔骃《达旨》：“高树靡阴，独木不林。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独木难支",
+		"pronunciation" : "dú mù nán zhī",
+		"interpretation" : "一根木头支不住高大的房子。比喻一个人的力量单薄，维持不住全局。",
+		"source" : "隋·王通《文中子·事君》：“大厦将颠，非一木所支也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独树一帜",
+		"pronunciation" : "dú shù yī zhì",
+		"interpretation" : "树：立；帜：旗帜。单独树起一面旗帜。比喻独特新奇，自成一家。",
+		"source" : "清·袁枚《随园诗话》卷三：“元、白在唐朝所以能独树一帜者，正为其不袭盛唐窠臼也。”",
+		"example" : "苏轼也擅长书法，他取法颜真卿，但能独树一帜，与蔡襄、黄庭坚、米芾并称宋代四大家。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独此一家，别无分店",
+		"pronunciation" : "dú cǐ yī jiā，bié wú fēn diàn",
+		"interpretation" : "原是一些店铺招揽生意的用语，向顾客表明他没分店，只能在他这一家店里买到某种商品。泛指某种事物只有他那儿有，别处都没有。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独清独醒",
+		"pronunciation" : "dúu qīng dú xǐng",
+		"interpretation" : "独自清白，独自觉醒，不与世俗同流合污。",
+		"source" : "战国·楚·屈原《渔父》：“屈原曰：‘举世皆浊而我独清，众人皆醉而我独醒，是以见放。’”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独立自主",
+		"pronunciation" : "dú lì zì zhǔ",
+		"interpretation" : "多指国家或政党维护主权，不受别人的控制或支配。",
+		"source" : "",
+		"example" : "无论处于怎样复杂、严重、惨苦和环境，军事指导者首先需要的是独立自主地组织和使用自己的力量。（毛泽东《中国革命战争的战略问题》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独竖一帜",
+		"pronunciation" : "dú shù yī zhì",
+		"interpretation" : "单独树起一面旗帜。比喻独特新奇，自成一家。同“独树一帜”。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独茧抽丝",
+		"pronunciation" : "dú jiǎn chōu sī",
+		"interpretation" : "比喻诗文条理清晰，脉络分明。亦比喻单相思。",
+		"source" : "明·谢榛《四溟诗话》第一卷：“凡作近体，诵要好，听要好，观要好，讲要好。诵之行云流水，听之金声玉振，观之明霞散绮，讲之独茧抽丝。”",
+		"example" : "一日见某部某郎，不觉倾倒，形输色授，颇难自持。然独茧抽丝无由作合也，因赋无题二章。（清·梁绍壬《两般秋雨庵随笔·无题诗序》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独运匠心",
+		"pronunciation" : "dú yùn jiàng xīn",
+		"interpretation" : "匠心：精巧的心思。形容精美独到的艺术构思。",
+		"source" : "郑逸梅《艺坛百影·陈从周与纽约明轩》：“他的旁艺，如制缠枝杖，独运匠心，修短适度，且刻铭识，以贻朋友，大有庾子三所谓‘秋藜促节，白藋同心’之致。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "独鹤鸡群",
+		"pronunciation" : "dú hè jī qún",
+		"interpretation" : "一只鹤站在鸡群中。比喻一个人的才能或仪表超群出众。",
+		"source" : "晋·戴逵《竹林七贤论》：“嵇绍入洛，或谓王戎曰：‘昨于稠人中始见嵇绍，昂昂然若野鹤之在鸡群。’”南朝梁·刘义庆《世说新语·容止》：“嵇延祖卓卓如野鹤之在鸡群。”",
+		"example" : "独鹤鸡群自寡俦，三间老屋日西头。（清·钱谦益《客途有怀吴中故人周吏部景文》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "电光石火",
+		"pronunciation" : "diàn guāng shí huǒ",
+		"interpretation" : "闪电的光，燧石的火。原为佛家语，比喻事物瞬息即逝。现多形容事物象闪电和石火一样一瞬间就消逝。",
+		"source" : "宋·释普济《五灯会元》：“此事如击石火，似闪电光。”",
+		"example" : "但看还没有十分看明，又如电光石火一样飞也似地过去了。（郭沫若《学生时代·孤山的梅花》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "电闪雷鸣",
+		"pronunciation" : "diàn shǎn léi míng",
+		"interpretation" : "闪电飞光，雷声轰鸣。比喻快速有力。也比喻轰轰烈烈。",
+		"source" : "",
+		"example" : "我们的总理，回答得最为铿锵有力；不用语言，而用电闪雷鸣般的一生的经历。（郭小川《痛悼敬爱的周总理》诗）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "登堂入室",
+		"pronunciation" : "dēng táng rù shì",
+		"interpretation" : "堂、室：古代宫室，前面是堂，后面是室。登上厅堂，进入内室。比喻学问或技能从浅到深，达到很高的水平。",
+		"source" : "《论语·先进》：“由也升堂矣，未入于室也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "登山涉水",
+		"pronunciation" : "dēng shān shè shuǐ",
+		"interpretation" : "爬山过水。比喻历尽艰难。",
+		"source" : "明·施耐庵《水浒传》第二十二回：“［宋江兄弟］两个商量了，径望沧州路上来。途中免不得登山涉水，过府冲州。”",
+		"example" : "我因归正释门，秉诚僧教，这一向登山涉水，把我那幼时的朋友也都疏失，未及拜访，少识尊颜。★明·吴承恩《西游记》第五十三回",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "登山陟岭",
+		"pronunciation" : "dēng shān zhì lǐng",
+		"interpretation" : "陟：蹈、踏。即翻山越岭。形容旅途艰辛劳累。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "登木求鱼",
+		"pronunciation" : "déng mù qiú yú",
+		"interpretation" : "登：攀；木：树。爬到树上找鱼。比喻方向、方法不对，无法达到目的。",
+		"source" : "宋·苏辙《次韵吴厚秀才见录》：“登木求鱼知我掘，循巢觅兔笑君疏。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "登高望远",
+		"pronunciation" : "dēng gāo wàng yuǎn",
+		"interpretation" : "登上高处，看得更远。也比喻思想境界高，目光远大。",
+		"source" : "《吕氏春秋·顺说》：“顺风而呼，声不加疾也，际高而望，目不加明也，所因便也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "盗憎主人",
+		"pronunciation" : "dào zēng zhǔ rén",
+		"interpretation" : "主人：物主。盗贼憎恨被他所盗窃的物主。比喻邪恶的人憎恨正直的人。",
+		"source" : "《左传·成公十五年》：“盗憎主人，民恶其上。子好直言，必及于难。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "眈眈逐逐",
+		"pronunciation" : "dān dān zhú zhú",
+		"interpretation" : "贪婪注视，急于攫取的样子。",
+		"source" : "《周易·颐》：“虎视耽耽，其欲逐逐。”",
+		"example" : "顾吾窃睨夫眈眈逐逐于吾旁者，为斯巴达还魂者若干国，为雅典还魂者若干国。★清·梁启超《斯巴达小志》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "睹微知著",
+		"pronunciation" : "dǔ wēi zhī zhù",
+		"interpretation" : "微：细小；著：显著。看到细小的征兆便知道其性质及发展趋势。",
+		"source" : "《三国志·吕布臧洪传》：“仆中不敏，又素不能原始见终，睹微知著，窃度主人之心。，岂谓三子宜死，罚当刑中哉。？”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "睹物思人",
+		"pronunciation" : "dǔ wù sī rén",
+		"interpretation" : "睹：看；思：思念。看见死去或离别的人留下的东西就想起了这个人。",
+		"source" : "唐·裴铏《传奇·颜睿》：“贵妃赠辟（避）尘犀簪一枚，曰：‘异日睹物思人。’”",
+		"example" : "俗语说：“睹物思人”，天下的水总归一源，不拘那里的水舀一碗，看着哭去，也就尽情了。（清·曹雪芹《红楼梦》第四十四回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "短兵相接",
+		"pronunciation" : "duǎn bīng xiāng jiē",
+		"interpretation" : "短兵：刀剑等短兵器；接：交战。指近距离搏斗。比喻面对面地进行激烈的斗争。",
+		"source" : "战国·楚·屈原《九歌·国殇》：“车错毂兮短兵接。” 短兵相接的故事",
+		"example" : "但恐怕也有时会逼到非短兵相接不可的，这时候，没有法子，就短兵相接。（鲁迅《两地书·二》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "砥砺琢磨",
+		"pronunciation" : "dǐ lì zhuó mó",
+		"interpretation" : "琢磨：雕刻和打磨玉石。比喻磨练自己的品德，在学业上不断上进。",
+		"source" : "",
+		"example" : "政府与诸生期许之重，凡兹再三申谕，固期有所鉴戒，勉为成材，其各砥砺琢磨，毋负谆谆告诫之意。（蔡东潘《民国通俗演义》第一百八回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "砥节奉公",
+		"pronunciation" : "dǐ jié fèng gōng",
+		"interpretation" : "磨砺名节，奉行公事。",
+		"source" : "《明史·周延传》：“延颜面寒峭，砥节奉公。权臣用事，政以贿成，延未尝有染。”《明史·梁材传》：“砥节守公如一日，帝眷亦甚厚。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "端本正源",
+		"pronunciation" : "duān běn zhèng yuán",
+		"interpretation" : "端：端正，清理。本：根本。源：根源。指从根本上加以整顿清理。",
+		"source" : "《晋书·殷仲堪传》：“端本正源者，虽不能无危，其危易持。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "笃信好学",
+		"pronunciation" : "dǔ xìn hào xué",
+		"interpretation" : "笃信：忠实地信仰。指对道德和事业抱有坚定的信心，勤学好问。",
+		"source" : "《论语·泰伯》：“子曰：‘笃信好学，守死善道。’”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "等因奉此",
+		"pronunciation" : "děng yīn fèng cǐ",
+		"interpretation" : "比喻例行公事，官样文章。也常用来讽刺只知道按章办事而不能联系实际的工作作风。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "等米下锅",
+		"pronunciation" : "děng mǐ xià guō",
+		"interpretation" : "比喻生活困难，缺少钱用。",
+		"source" : "",
+		"example" : "岂但不肯多出钱，照时值估价，还要少几两，分明知道我等米下锅，要杀我的巧。（清·吴敬梓《儒林外史》第十六回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "答非所问",
+		"pronunciation" : "dá fēi suǒ wèn",
+		"interpretation" : "回答的不是所问的内容。",
+		"source" : "",
+		"example" : "按照着次序一问一答，没有答非所问的弊病，就算情意格外浓厚。（叶圣陶《隔膜》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "箪食壶浆",
+		"pronunciation" : "dān sì hú jiāng",
+		"interpretation" : "食：食物；浆：汤。百姓用箪盛饭，用壶盛汤来欢迎他们爱戴的军队。形容军队受到群众热烈拥护和欢迎的情况。",
+		"source" : "《孟子·梁惠王上》：“箪食壶浆以迎王师。”",
+		"example" : "时操引得胜之兵，陈列于河上，有土人箪食壶浆以迎之。（明·罗贯中《三国演义》第三十一回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "箪食瓢饮",
+		"pronunciation" : "dān sì piáo yǐn",
+		"interpretation" : "一箪食物，一瓢饮料。形容读书人安于贫穷的清高生活。",
+		"source" : "《论语·雍也》：“一箪食，一瓢饮，在陋巷，人不堪其忧，回也不改其乐。”",
+		"example" : "而又有箪食瓢饮，足以不死。（唐·韩愈《与李翱书》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "胆大包天",
+		"pronunciation" : "dǎn dà bāo tiān",
+		"interpretation" : "形容胆子极大。",
+		"source" : "",
+		"example" : "这个胆大包天的盗贼终于落入了法网。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "胆大妄为",
+		"pronunciation" : "dǎn dà wàng wéi",
+		"interpretation" : "妄为：胡搞，乱做。毫无顾忌地干坏事。",
+		"source" : "",
+		"example" : "说他擅卖矿产，胆大妄为，请旨拿交刑部治罪。（清·李宝嘉《官场现形记》第五十三回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "胆大心小",
+		"pronunciation" : "dǎn dà xīn xiǎo",
+		"interpretation" : "形容办事果断，考虑周密。",
+		"source" : "《旧唐书·孙思邈传》：“胆欲大而心欲小，智欲圆而行欲方。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "胆大心细",
+		"pronunciation" : "dǎn dà xīn xì",
+		"interpretation" : "形容办事果断，考虑周密。",
+		"source" : "《旧唐书·孙思邈传》：“胆欲大而心欲小，智欲圆而行欲方。”",
+		"example" : "以胆大心细勇猛灵活的战斗作风，炸死炸伤了几百名敌人。（峻青《不尽巨涛滚滚来》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "胆寒发竖",
+		"pronunciation" : "dǎn hán fā shù",
+		"interpretation" : "形容恐怖之极。",
+		"source" : "五代·王定保《唐摭言·好及第恶登科》：“李少卿又曰操空弮，冒白刃，闻者靡不胆寒发竖，永为子孙之戒。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "荡气回肠",
+		"pronunciation" : "dàng qì huí cháng",
+		"interpretation" : "荡：动摇；回：回转。形容文章、乐曲十分婉转动人。",
+		"source" : "战国·楚·宋玉《高唐赋》：“感心动耳，回肠伤气。”三国·魏·曹丕《大墙上蒿行》：“女娥长歌，声协宫商，感心动耳，荡气回肠。”",
+		"example" : "这首乐曲旋律优美动人，令人荡气回肠。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "荡然无存",
+		"pronunciation" : "dàng rán wú cún",
+		"interpretation" : "形容东西完全失去，一点没有留下。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "蠹众木折",
+		"pronunciation" : "dù zhòng mù zhé",
+		"interpretation" : "蛀虫多了，木头就要折断。比喻不利的因素多了，就能造成灾祸。",
+		"source" : "《商君子·修权》：“蠹众而木折，隙大而墙坏。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "蠹国害民",
+		"pronunciation" : "dù guó hài mín",
+		"interpretation" : "蠹：损害。危害国家，残害人民。",
+		"source" : "明·冯梦龙《警世通言》卷四：“阴司以儿父久居高位，不思行善，专一任性执拗，行青苗等新法，蠹国害民，怨气腾天。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "蠹政害民",
+		"pronunciation" : "dù zhèng hài mín",
+		"interpretation" : "危害国家和人民。同“蠹国害民”。",
+		"source" : "《周书·晋荡公护传》：“凡所委任，皆非其人，兼诸子贪残，僚属纵逸，恃护威势，莫不蠹政害民。”",
+		"example" : "书牍交于道路，请托遍于官曹，其小者足以蠹政害民，而其大者，至于立党倾轧，取人主太阿之柄而颠倒之，皆此之繇也。★清·顾炎武《生员论中》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "蠹政病民",
+		"pronunciation" : "dù zhèng bìng mín",
+		"interpretation" : "危害国家和人民。同“蠹国害民”。",
+		"source" : "明·罗贯中《三国演义》第一百二十回：“时皓［孙皓］居武昌，扬州百姓溯流供给，甚苦之；又奢侈无度，公私匮乏。陆凯上疏谏曰：‘……又左右皆非其人，群党相挟，害忠隐贤，此皆蠹政病民者也。’”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "诞谩不经",
+		"pronunciation" : "dàn màn bù jīng",
+		"interpretation" : "荒诞虚妄，不合常理。",
+		"source" : "清·王士禛《香祖笔记》卷六：“古今传记《拾遗记》、《东文朔外传》之类，悉诞谩不经。”",
+		"example" : "尝考《洪武实录》及《舆地志》，时地人事多信俗，诞谩不经。★清·曹寅《重葺鸡鸣寺浮图碑记》",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "读书百遍，其义自见",
+		"pronunciation" : "dú shū bǎi biàn，qí yì zì xiàn",
+		"interpretation" : "见：显现。读书上百遍，书意自然领会。指书要熟读才能真正领会。",
+		"source" : "晋·陈寿《三国志·魏志·王肃传》：“人有从学者，遇不肯教，而云：‘必当先读百遍’，言‘读书百遍而义自见。’”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "读书破万卷",
+		"pronunciation" : "dú shū pò wàn juàn",
+		"interpretation" : "破：突破；卷：书籍册数。形容读书很多，学识渊博。",
+		"source" : "唐·杜甫《奉赠韦左丞文二十韵》：“读书破万卷，下笔如有神。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "调兵遣将",
+		"pronunciation" : "diào bīng qiǎn jiàng",
+		"interpretation" : "调动兵力，派遣将领。泛指调动安排人力。",
+		"source" : "",
+		"example" : "写书教太师知道，早早调兵遣将，剿除贼寇报仇。（明·施耐庵《水浒全传》第六十七回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "调虎离山",
+		"pronunciation" : "diào hǔ lí shān",
+		"interpretation" : "设法使老虎离开原来的山冈。比喻用计使对方离开原来的地方，以便乘机行事。",
+		"source" : "明·许仲琳《封神演义》第八十八回：“子牙公须是亲自用调虎离山计，一战成功。” 调虎离山的故事",
+		"example" : "这自然是调虎离山之计，邓和武汉派都是不同意的。（郭沫若《海涛集·南昌之一夜》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "豆蔻年华",
+		"pronunciation" : "dòu kòu nián huá",
+		"interpretation" : "豆蒄：多年生草本植物，比喻处女。指女子十三四岁时。",
+		"source" : "唐·杜牧《赠别》诗：“娉娉袅袅十三余，豆蔻梢头二月初。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "貂狗相属",
+		"pronunciation" : "diāo gǒu xiāng shǔ",
+		"interpretation" : "指真伪或优劣混杂在一起。",
+		"source" : "唐·崔倬《叙石幢事》：“倬自幼学慕习鲁公书法……惜奇高踪堙没，遂命攻治其伤残，补续其次，虽真赝悬越，貂狗相属，且复瞻仰鲁公遗文，昭示于后矣。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "貂蝉满座",
+		"pronunciation" : "diāo chán mǎn zuò",
+		"interpretation" : "貂蝉：汉代侍从官员帽上的装饰物，旧用作达官贵人的代称。旧指官爵多而滥。",
+		"source" : "《后汉书·舆服志下》：“武冠，一曰武弁大冠，诸武官冠之。侍中，中常侍加黄金珰，附蝉为文，貂尾为饰，谓之‘赵惠文冠’。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "貂裘换酒",
+		"pronunciation" : "diāo qiú huàn jiǔ",
+		"interpretation" : "貂裘：貂皮做的大衣。用貂皮大衣换酒喝。形容宝贵者放荡不羁的生活。",
+		"source" : "《晋书·阮孚传》：“（孚）迁黄门侍郎散骑常侍，尝以金貂换酒，复为所司弹劾。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "赌誓发原",
+		"pronunciation" : "dǔ shì fā yuán",
+		"interpretation" : "犹言赌咒发誓。庄严地说出表示决心的话或对某事提出保证。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "赌誓发愿",
+		"pronunciation" : "dǔ shì fā yuàn",
+		"interpretation" : "犹言赌咒发誓。庄严地说出表示决心的话或对某事提出保证。",
+		"source" : "《石点头·贪婪汉六院卖风流》：“江湖上客商，赌誓发愿便说：‘若有欺心，必定遭遇吾剥皮。’”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "蹈其覆辙",
+		"pronunciation" : "dǎo qì fù zhé",
+		"interpretation" : "蹈：踩；覆：颠倒；辙：车迹，指道路。重走别人翻车的路。比喻不接受教训，重犯别人犯过的错误。",
+		"source" : "",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "蹈常袭故",
+		"pronunciation" : "dǎo cháng xí gù",
+		"interpretation" : "蹈：踩，引伸为遵循；常：常规，老规矩；袭：沿袭；故：老办法。因循守旧，照老规矩办事。",
+		"source" : "宋·苏轼《伊尹论》：“后之君子，蹈常而袭故，惴惴焉惧不免于天下。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "蹈火探汤",
+		"pronunciation" : "dǎo huǒ tàn tāng",
+		"interpretation" : "比喻不避艰险。同“蹈汤赴火”。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "蹈矩循彟",
+		"pronunciation" : "dǎo jǔ xún yuē",
+		"interpretation" : "指遵守规矩。同“蹈矩循规”。",
+		"source" : "明·宋濂《佛慧圆明无边广照普利大禅师塔铭》：“七岁即就外傅，诸书经目辄成诵，出入蹈矩循彟，有若成人。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "蹈矩循规",
+		"pronunciation" : "dǎo jǔ xún guī",
+		"interpretation" : "指遵守规矩。",
+		"source" : "明·沈受先《三元记·格天》：“积善存仁，蹈矩循规太古民。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "蹈规循矩",
+		"pronunciation" : "dǎo guī xún jǔ",
+		"interpretation" : "指遵守规矩。同“蹈矩循规”。",
+		"source" : "明·徐霖《绣襦记·伪儒乐聘》：“空穷读数行书，蹈规循矩没是非。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "达人知命",
+		"pronunciation" : "dá rén zhī mìng",
+		"interpretation" : "达人：通达事理的人。指心胸豁达的人，安于命运。",
+		"source" : "唐·王勃《滕五阁序》：“君子安贫，达人知命。”",
+		"example" : "妾闻君子见几，达人知命。（明·王世贞《鸣凤记·写本》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "达士通人",
+		"pronunciation" : "dá shì tōng rén",
+		"interpretation" : "通人：学识渊博贯通古今的人。指心胸豁达，学识渊博的人。",
+		"source" : "宋·陆游《雍煕请机老疏》：“伏望尊官长者，达士通人，共燃续慧命灯，不惜判虚空笔，起难遭想，结果胜缘。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "达官显宦",
+		"pronunciation" : "dá guān xiǎn huàn",
+		"interpretation" : "达：显贵；宦：官。旧指职位高而声势显赫的官员。",
+		"source" : "《礼记·檀弓下》：“诸达官之长杖。”",
+		"example" : "我所知道的是四十年前的绍兴，那里没有达官显宦，所以未闻有专门为（堂会？）的演剧。（鲁迅《且介亭杂文附集·女吊》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "达官知命",
+		"pronunciation" : "dá guān zhī mìng",
+		"interpretation" : "达观：旧指一切听其自然，也指看得开。知命：旧指知天命，想念人的命运是由天决定的。指对不如意的事情看得开，任凭命运安排，无",
+		"source" : "",
+		"example" : "达官知命的思想，暂时引渡静离开了苦闷的荆棘。天快亮时，她也沉沉入睡了。（鲁迅《幻灭》十四）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "达官贵人",
+		"pronunciation" : "dá guān guì rén",
+		"interpretation" : "达官：大官。指地位高的大官和出身侯门身价显赫的人。",
+		"source" : "《礼记·檀弓下》：“公子丧，诸达官之长杖。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "达官贵要",
+		"pronunciation" : "dá guān guì yào",
+		"interpretation" : "犹言达官贵人。指地位高的大官和出身侯门身价显赫的人。",
+		"source" : "《金史·世宗纪下》：“达官贵要多行非理，监察院察未尝举劾。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "达权知变",
+		"pronunciation" : "dá quán zhī biàn",
+		"interpretation" : "指不死守常规，根据实际情况，随机应变。",
+		"source" : "明·冯梦龙《醒世恒言》第十一卷：“主四方之事的，顶寇束带，谓之丈夫；出将入相，无所不为；须要博古通今，达权知变。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "达权通变",
+		"pronunciation" : "dá quán tōng biàn",
+		"interpretation" : "通、达：通晓，懂得；权、变：权宜，变通。做理能适应客观情况的变化，懂得变通，不死守常规。",
+		"source" : "《后汉书·贾逵传》：“《左氏》义深于君父，《公羊》多任于权变。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "达观知命",
+		"pronunciation" : "dá guān zhī mìng",
+		"interpretation" : "达观：指一切听其自然或看得开；命：命运；知命：指知天命。指对不如意的事情看得开，任凭命运摆布，无所烦恼。",
+		"source" : "茅盾《幻灭》十四：“达观知命的思想，暂时引渡静离开了苦闷的荆棘。天快亮时，她也沉沉入睡了。”",
+		"example" : "你可不能有达观知命的思想。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "遁入空门",
+		"pronunciation" : "dùn rù kōng mén",
+		"interpretation" : "遁：逃遁；空门：指佛教，因佛教认为世界是一切皆空的。指出家。避开尘世而入佛门。",
+		"source" : "",
+		"example" : "天下重见升平，他自己决不留恋宝贵，功成身退，遁入空门做一个与世无争的人。（姚雪垠《李志成》第二十八章）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "遁名匿迹",
+		"pronunciation" : "dùn míng nì jì",
+		"interpretation" : "遁：隐藏；匿：藏匿。隐姓埋名，不让人闻知。",
+		"source" : "宋·苏舜钦《粹隐堂记》：“一不与细合，则飒然远举，遁名匿迹，惟恐有闻于人也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "遁迹桑门",
+		"pronunciation" : "dùn jì sāng mén",
+		"interpretation" : "指避开尘世而出家为僧。桑门，即沙门。",
+		"source" : "清·钮琇《觚剩·树怪》：“石涛和尚以前朝宗室，遁迹桑门，结茅于微之黄山。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "遁迹潜形",
+		"pronunciation" : "dùn jì qián xíng",
+		"interpretation" : "遁、潜：隐藏。迹、形：踪迹，形迹。指隐藏踪迹和身形。",
+		"source" : "明·张景《飞丸记·园中落穽》：“若要行刺呵，要隐。当遁迹潜形，翦蔓除根才事稳。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "遁迹销声",
+		"pronunciation" : "dùn jì xiāo shēng",
+		"interpretation" : "指隐居不出。",
+		"source" : "《旧唐书·韦嗣立传》：“若任用无才，则有才之路塞，贤人君子所以遁迹销声，常怀叹恨者也。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "遁阴匿景",
+		"pronunciation" : "dùn yīn nì jǐng",
+		"interpretation" : "指隐藏形迹。",
+		"source" : "晋·陆云《南征赋》：“遁阴匿景，静言勿哗。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "道不同不相为谋",
+		"pronunciation" : "dào bù tóng bù xiāng wéi móu",
+		"interpretation" : "走着不同道路的人，就不能在一起谋划。比喻意见或志趣不同的人就无法共事。",
+		"source" : "《论语·卫灵公》：“道不同，不相为谋。”",
+		"example" : "我非不知银行之可以发财也，其如“道不同不相为谋”何。（鲁迅《两地书·六六》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "道同志合",
+		"pronunciation" : "dào tóng zhì hé",
+		"interpretation" : "犹言道合志同。",
+		"source" : "宋·司马光《又谢庞参政启》：“尝托僚寀，获友高明，道同志合，出处如一。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "道听途说",
+		"pronunciation" : "dào tīng tú shuō",
+		"interpretation" : "道、途：路。路上听来的、路上传播的话。泛指没有根据的传闻。",
+		"source" : "《论语·阳货》：“道听而途说，德之弃也。”《汉书·艺文志》：“小说家者流，盖出于稗官，街谈巷语，道听途说者之所造也。” 道听途说的故事",
+		"example" : "妹子道听途说，不知是否？尚求指示。（清·李汝珍《镜花缘》第五十三回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "道大莫容",
+		"pronunciation" : "dào dà mò róng",
+		"interpretation" : "原指孔子之道精深博大，所以天下容纳不了他。后用以正确的道理不为世间所接受。",
+		"source" : "《史记·孔子世家》：“夫子之道，至大也，故天下莫能容夫子。”",
+		"example" : "道大莫容，反动派仇视共产主义真理是一点也不奇怪的。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "道存目击",
+		"pronunciation" : "dào cún mù jī",
+		"interpretation" : "一个人具有深厚的道德修养，人们只需一接触便能感受得到。",
+		"source" : "《庄子·田子方》：“子路曰：‘吾子欲见温伯雪子久矣，见之而不言，何邪？’仲尼曰：‘若夫人者，目击而道存矣，亦不可以容声矣。’”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "道山学海",
+		"pronunciation" : "dào shān xué hǎi",
+		"interpretation" : "道、学：学问。学识比天高比海深。形容学识渊博。",
+		"source" : "明·无名氏《鸣凤记·邹林游学》：“道山学海功非浅，孔思周情文可传。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "道德文章",
+		"pronunciation" : "dào dé wén zhāng",
+		"interpretation" : "指思想品德和学识学问。",
+		"source" : "宋·辛弃疾《渔家傲·为余伯熙察院寿》：“道德文章传几世，到君合上三台位。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "道旁苦李",
+		"pronunciation" : "dào páng kǔ lǐ",
+		"interpretation" : "比喻不被重视的人。",
+		"source" : "《晋书·王戎传》：“树在道边而多子，必苦李也。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "道貌岸然",
+		"pronunciation" : "dào mào àn rán",
+		"interpretation" : "道貌：正经严肃的容貌；岸然：高傲的样子。指神态严肃，一本正经的样子。",
+		"source" : "清·蒲松龄《聊斋志异·成仙》：“又八九年，成忽自至，黄巾氅服，岸然道貌。”",
+		"example" : "因看见端甫道貌岸然，不敢造次。（清·吴趼人《二十年目睹之怪现状》第一百四回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "道边苦李",
+		"pronunciation" : "dào biān kǔ lǐ",
+		"interpretation" : "比喻庸才，无用之才。",
+		"source" : "南朝宋·刘义庆《世说新语·雅量》：“王戎七岁，尝与诸小儿游，看道边李树多子折枝，诸儿竞走取之，唯戎不动。人问之，答曰：‘树在道边而多子，此必苦李。’取之信然。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "道高一尺，魔高一丈",
+		"pronunciation" : "dào gāo yī chǐ，mó gāo yī zhàng",
+		"interpretation" : "原意是宗教家告诫修行的人要警惕外界的诱惑。后比喻取得一定成就以后往往面临新的更大的困难。",
+		"source" : "明·吴承恩《西游记》第五十回：“道高一尺魔高丈，性乱情昏错认家。可恨法身无坐位，当时行动念头差。”",
+		"example" : "所谓“道高一尺，魔高一丈”，他，吴荪甫，以及他的同志孙吉人他们，都是企业界身经百战的宿将，难道就怕了什么？（茅盾《子夜》十）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "雕梁画栋",
+		"pronunciation" : "diāo liáng huà dòng",
+		"interpretation" : "指有彩绘装饰的十分华丽的房屋。",
+		"source" : "元·王子一《误入桃源》第二折：“光闪闪贝阙珠宫，齐臻臻碧瓦朱甍，宽绰绰罗帏绣成栊，郁巍巍画梁雕栋。”",
+		"example" : "正面五间上房，皆是雕梁画栋，两边穿山游廊厢房，挂着各色鹉画眉等雀儿。（清·曹雪芹《红楼梦》第三回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "雕章缛彩",
+		"pronunciation" : "diāo zhāng rù cǎi",
+		"interpretation" : "比喻文彩绚烂。",
+		"source" : "唐·刘知幾《史通鉴识》：“此乃绮扬绣合，雕章缛彩，欲称实录，其可得乎？”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "雕虫小技",
+		"pronunciation" : "diāo chóng xiǎo jì",
+		"interpretation" : "雕：雕刻；虫：指鸟虫书，古代汉字的一种字体。比喻小技或微不足道的技能。",
+		"source" : "《北史·李浑传》：“雕虫小技，我不如卿；国典朝章，卿不如我。” 雕虫小技的故事",
+		"example" : "这些玩意儿，尽是些雕虫小技，不过解闷消闲。我讲的是长枪大戟，东荡西驰的本领。（清·文康《儿女英雄传》第十八回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "顶天立地",
+		"pronunciation" : "dǐng tiān lì dì",
+		"interpretation" : "头顶云天，脚踏大地。形容形象高大，气慨豪迈。",
+		"source" : "宋·释惟白《续传灯录·安吉州道场无庵法全禅师》：“汝等诸人，个个顶天立地……更来这里觅个甚么？”元·纪君祥《赵氏孤儿》第一折：“我韩厥是一个顶天立地的男儿。”",
+		"example" : "先生是楚国的栋梁，是顶天立地的柱石。（郭沫若《屈原》第三幕）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "顶礼膜拜",
+		"pronunciation" : "dǐng lǐ mó bài",
+		"interpretation" : "顶礼：佛教拜佛时的最敬礼，人跪下，两手伏地，以头顶着受礼人的脚；膜拜：佛教徒的另一种敬礼，两手加额，跪下叩头。虔诚地跪拜",
+		"source" : "",
+		"example" : "这句话传扬开去，一时哄动了吉州百姓，扶老携幼，都来顶礼膜拜。（清·吴趼人《痛史》第二十回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "顶门壮户",
+		"pronunciation" : "dǐng mén zhuàng hù",
+		"interpretation" : "指支撑门户，光耀门第。",
+		"source" : "《红楼梦》第八八回：“这也不枉你大哥哥死了，你大嫂子拉扯他一场！日后也替你大哥哥顶门壮户。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "顿开茅塞",
+		"pronunciation" : "dùn kāi máo sè",
+		"interpretation" : "顿：立刻；茅塞：喻人思路闭塞或不懂事。比喻思想忽然开窍，立刻明白了某个道理。",
+		"source" : "《孟子·尽心下》：“山径之蹊间，介然用之而成路；为间不用，则茅塞之矣。今茅塞子之心矣。”",
+		"example" : "只不过短短十多分钟的谈话，可是他好象使林道静顿开茅塞似的，忽然知道了好多事情。（杨沫《青春之歌》第一部第六章）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "顿足椎胸",
+		"pronunciation" : "dùn zú zhuī xiōng",
+		"interpretation" : "形容情绪激烈的样子。同“顿足搥胸”。",
+		"source" : "刘立凯《五四——六三爱国运动大事日录·广州众捣毁日货》：“社会人心异常兴奋，甚至妇人、孺子、车夫、苦力，风元不口谈抵制，戟批痛骂，握拳怒目，顿足椎胸。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "顿首再拜",
+		"pronunciation" : "dùn shǒu zài bài",
+		"interpretation" : "顿首：以头叩地而拜；再拜：拜两次。古代的一种跪拜礼。亦指旧时信札中常用作向对方表示敬意的客套语。",
+		"source" : "《史记·仲尼弟子列传》：“勾践顿首再拜曰：‘孤尝不料力，乃与吴战，困于会稽，痛于骨髓，日夜焦唇干舌，徙欲与吴王接踵而死，孤之愿也。’”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "颠三倒四",
+		"pronunciation" : "diān sān dǎo sì",
+		"interpretation" : "形容说话做事错杂紊乱。",
+		"source" : "明·许仲琳《封神演义》第四十四回：“连拜了三四日，就把子牙拜的颠三倒四，坐卧不安。”",
+		"example" : "奶奶年岁大了，做起事来常常是颠三倒四的。",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "颠倒干坤",
+		"pronunciation" : "diān dǎo gàn kūn",
+		"interpretation" : "比喻本领十分高强。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "颠倒是非",
+		"pronunciation" : "diān dǎo shì fēi",
+		"interpretation" : "是：对；非：错。把错的说成对的，对的说成错的。把是非弄颠倒了。",
+		"source" : "唐·韩愈《施先生墓铭》：“古圣人言，其旨密微，笺注纷罗，颠倒是非。”",
+		"example" : "我们希望这种颠倒是非的时代快些过去。（毛泽东《论联合政府》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "颠倒衣裳",
+		"pronunciation" : "diān dǎo yī cháng",
+		"interpretation" : "颠倒：上下倒置；衣裳：古时上为衣，下为裳。形容匆忙而乱了顺序。",
+		"source" : "《诗经·齐风·东方未明》：“东方未明，颠倒衣裳。颠之倒之，自公召之。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "颠倒黑白",
+		"pronunciation" : "diān dǎo hēi bái",
+		"interpretation" : "把黑的说成白的，白的说成黑的。比喻歪曲事实，混淆是非。",
+		"source" : "战国·楚·屈原《九章·怀沙》：“变白以为黑兮，倒上以为下。”",
+		"example" : "终日终夜，只是躺在烟铺上，公事大小，一概不问，任着幕宾胥使，颠倒黑白。（清·彭养鸥《黑籍冤魂》第七回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "颠沛流离",
+		"pronunciation" : "diān pèi liú lí",
+		"interpretation" : "颠沛：跌倒，比喻穷困，受挫折；流离：浪落。由于灾荒或战乱而流转离散。形容生活艰难，四处流浪。",
+		"source" : "《诗经·大雅·荡》：“人亦有言，颠沛之揭。”《汉书·薛广德传》：“窃见关东困极，人民流离。”",
+		"example" : "我所感到悲哀的，是有几个同我来的学生，至今还找不到学校进，还在颠沛流离。（鲁迅《而已集·通信》）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "颠鸾倒凤",
+		"pronunciation" : "diān luán dǎo fèng",
+		"interpretation" : "比喻顺序失常。旧小说用来形容男女交欢。",
+		"source" : "元·王实甫《西厢记》第四本第二折：“你绣帷里效绸缪，颠鸾倒凤百事有。”",
+		"example" : "",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "黩武穷兵",
+		"pronunciation" : "dú wǔ qióng bīng",
+		"interpretation" : "黩：随便，任意；穷：竭尽。随意使用武力，不断发动侵略战争。形容极其好战。",
+		"source" : "《三国志·吴书·陆抗传》：“而听诸将徇名，穷兵黩武，动费万计，士卒雕瘁，寇不为衰，见我已大病矣。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "鼎成龙升",
+		"pronunciation" : "dǐng chéng lóng shēng",
+		"interpretation" : "指帝王去世。同“鼎成龙去”。",
+		"source" : "明·郎瑛《七修类稿·国事一·象简龙衣联》：“高庙鼎成龙升之日，建文即位，成祖以燕王来，奔而不朝，盖以叔不拜侄也。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "鼎新革故",
+		"pronunciation" : "dǐng xīn gé gù",
+		"interpretation" : "旧指朝政变革或改朝换代。现泛指除掉旧的，建立拳的。",
+		"source" : "《周易·杂卦》：“革，去故也，鼎，取新也。”",
+		"example" : "速沾雨露，以就去邪归正之心；毋犯雷霆，当效鼎新革故之意。（明·施耐庵《水浒全传》第八十回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "鼎玉龟符",
+		"pronunciation" : "dǐng yù guī fú",
+		"interpretation" : "旧指传国之宝及受命之符箓。",
+		"source" : "清·叶廷琯《海录碎事·帝王上》：“干戈揖让取之也殊途，鼎玉龟符成之也一致。”",
+		"example" : "无",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "鼎足三分",
+		"pronunciation" : "dǐng zú sān fēn",
+		"interpretation" : "鼎：古代炊具，三足两耳。比喻三方分立，互相抗衡。",
+		"source" : "《史记·淮阴侯列传》：“臣愿披腹心，输肝胆，效愚计，恐足下不能用也。诚能听臣之计，莫若两利而俱存之，三分天下，鼎足而居，其势莫敢先动。”",
+		"example" : "汉家王气已将尽，鼎足三分各自雄。（元·无名氏《隔江斗智》第二折）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "鼎足而三",
+		"pronunciation" : "dǐng zú ér sān",
+		"interpretation" : "比喻三方面对立的局势。也泛指三个方面。",
+		"source" : "《史记·淮阴侯列传》：“臣愿披腹心，输肝胆，效愚计，恐足下不能用也。诚能听臣之计，莫若两利而俱存之，三分天下，鼎足而居，其势莫敢先动。”",
+		"example" : "老头儿在席上，看着安老夫妻的这个佳儿，这双佳妇，鼎足而三，未免因羡生感，因感生叹。（清·文康《儿女英雄传》第三十二回）",
+		"start_letter" : "d"
+	},
+	{
+		"word" : "鼎镬刀锯",
+		"pronunciation" : "dǐng huò dāo jù",
+		"interpretation" : "鼎：古代烹用的青铜器物。镬：大锅。鼎镬：是古代的酷刑刑具，用以把人煮死。指古代四种酷刑的刑具，引用指称最残酷的刑罚。",
+		"source" : "明·冯梦龙《警世通言·拗相公饮恨半山堂》：“若见此奸贼，必手刃其头……虽赴鼎镬刀锯，亦无恨矣。”",
+		"example" : "",
+		"start_letter" : "d"
+	}
+]

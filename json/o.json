@@ -1,0 +1,50 @@
+[
+	{
+		"word" : "偶一为之",
+		"pronunciation" : "ǒu yī wéi zhī",
+		"interpretation" : "指平常很少这样做，偶尔才做一次。",
+		"source" : "宋·欧阳修《纵囚论》：“若夫纵而来归而赦之，可偶一为之尔。”",
+		"example" : "",
+		"start_letter" : "ǒ"
+	},
+	{
+		"word" : "呕心抽肠",
+		"pronunciation" : "ǒu xīn chōu cháng",
+		"interpretation" : "形容极度悲伤。",
+		"source" : "明·凌濛初《二刻拍案惊奇》卷一：“那些呕心抽肠的鬼，更不知哭到几时，才是住手！”",
+		"example" : "无",
+		"start_letter" : "ǒ"
+	},
+	{
+		"word" : "呕心沥血",
+		"pronunciation" : "ǒu xīn lì xuè",
+		"interpretation" : "呕：吐；沥：一滴一滴。比喻用尽心思。多形容为事业、工作、文艺创作等用心的艰苦。",
+		"source" : "唐·李商隐《李长吉小传》：“是儿要当呕出心乃已尔。”唐·韩愈《归彭城》诗：“刳肝以为纸，沥血以书辞。” 呕心沥血的故事",
+		"example" : "呕心沥血，讴歌社会主义，受到群众的欢迎。（臧克家《老舍永在》）",
+		"start_letter" : "ǒ"
+	},
+	{
+		"word" : "沤沫槿艳",
+		"pronunciation" : "ōu mò jǐn yàn",
+		"interpretation" : "比喻短暂的幻景。同“沤珠槿艳”。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "ō"
+	},
+	{
+		"word" : "沤珠槿艳",
+		"pronunciation" : "ōu zhū jǐn yàn",
+		"interpretation" : "比喻短暂的幻景。沤珠，水泡。槿，木槿花，鲜艳而易凋谢。",
+		"source" : "无",
+		"example" : "无",
+		"start_letter" : "ō"
+	},
+	{
+		"word" : "藕断丝连",
+		"pronunciation" : "ǒu duàn sī lián",
+		"interpretation" : "藕已折断，但还有许多丝连接着未断开。比喻没有彻底断绝关系。多指男女之间情思难断。",
+		"source" : "唐·孟郊《去妇》诗：“妾心藕中丝，虽断犹相连。”",
+		"example" : "算了吧，你也不必看得过于眼紧，反正他们是藕断丝连的。（欧阳山《三家巷》二二）",
+		"start_letter" : "ǒ"
+	}
+]
