@@ -1,15 +1,15 @@
-#Chinese Idioms
+Chinese Idioms
 ==============
 
 收录了9026条成语
 
-#db目录
+## db目录
 包含SQL格式的所有成语
 
-#json目录
+## json目录
 包含JSON格式的所有成语，按首字母区分a-z
 
-#json结构
+## json结构
 ```text
 [
     {
@@ -22,7 +22,7 @@
     }
 ]
 ```
-说明：
+### 说明：
  - word 成语本身
  - pronunciation 音标
  - source 来源
